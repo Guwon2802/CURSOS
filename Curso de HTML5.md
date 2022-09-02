@@ -48,7 +48,7 @@ Si el archivo esta una carpeta adelante, le agregas **/** y el nombre del archiv
 Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archivo.
 
 ```html
-<a href="../imagen3.jpg">enlace a la imagen 2</a>
+<a href="../imagen3.jpg">enlace a la imagen 3</a>
 ```
 
 ## Listas
@@ -56,6 +56,11 @@ Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archiv
 2 tipos de listas
 
 - **ul**: listas desordenadas.
+
+    - 
+    - 
+    -
+
 - **ol**: Listas ordenadas.
 
 Dentro va la etiqueta **li** y ahi se escribe.
