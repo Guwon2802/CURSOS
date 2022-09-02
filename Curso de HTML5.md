@@ -1,5 +1,5 @@
 # HTML5
-===
+
 ## ETIQUETAS PRINCIPALES
 
 **Primero se pone la etiqueta *DOCTYPE html***
@@ -7,13 +7,13 @@
 - **html**: Dentro va toda la pagina.
 - **body**: Aqui va lo que se puede ver en la pagina.
 - **head**: Aqui va lo que no se puede ver en la pagina.
-===
+
 ## ETIQUETAS DE TITULOS
 
 - **h1**: Para el titulo. Solo se pone una.
 - **h2**: Para los subtitulos.
 - **h3**,**h4**,**h5** y **h6**: Para subtitulos dentro de un h2.  
-===
+
 ## ETIQUETA DE TEXTO
 
 - **p**: Para escribir parrafos.
@@ -83,3 +83,8 @@ Hay dos formas de poder poner la imagen:
 
 ## DIVS
 
+- Etiqueta **div**: Separa y agrupa.
+
+## FORMULARIOS
+
+- Etiqueta **form**: Para crear formularios.
