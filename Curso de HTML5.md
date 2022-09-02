@@ -124,3 +124,24 @@ Tipos de metadatos:
 - **copyright**: Por si la pagina es para una empresa que tiene derechos de autor. Dentro de **content** va el nombre de la empresa.
 
 >Los datos que quieras agregar van dentro del *atributo* **content**, el cual va despues del **name**.
+
+## HTML SEMANTICO
+
+Primero se coloca el encabezado (*header*) y por ultimo el pie de pagina (*footer*).
+
+## NAV
+
+Con la etiqueta **nav** colocas la barra de navegacion. Normalmente se coloca dentro del *header*.
+
+En la barra de navegacion van los accesos a la cuenta y demas. Estos se colocan con las listas.
+
+>Al crear esos accesos tenes que crear otros archivos de html con los respectivos nombres de los accesos. En todos el “nav” tiene que ser igual.
+
+## SECCION Y ARTICULO
+
+- Etiqueta **article**: para mostar un articulo. Dentro se coloca la etiqueta **section** para hacer una seccion.
+
+## ASIDE
+
+Va al costado del articulo, es una parte secundaria.
+Se utiliza la etiqueta **aside**.
