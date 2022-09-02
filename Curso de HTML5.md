@@ -25,14 +25,27 @@
 
 ## Etiqueta de Enlace
 
-- **a**: Para redirigir a otra pagina. Se le coloca el *atributo* **href** y dentro a donde va a redirigir el enlace.
+- **a**: Para redirigir a otra pagina. Se le coloca el *atributo* **href** y dentro a donde va a redirigir el enlace. Y con el atributo **target** y el *valor* **_blank** abre la pagina en otra pestaña, por defecto la abre en la misma.
 
 Hay 2 tipos de rutas:
   - Rutas locales: Las que estan en nuestra carpeta.
   - Rutas externas: Paginas de internet.
+
+Si la pagina no es tuya, la agregas con el https://.
 
 Para abrir una pagina tuya que esta dentro de la misma carpeta, pones el nombre del archivo.
 
 Si el archivo esta una carpeta adelante, le agregas **/** y el nombre del archivo.
 
 Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archivo.
+
+## Listas
+
+2 tipos de listas
+
+- **ul**: listas desordenadas.
+- **ol**: Listas ordenadas.
+
+Dentro va la etiqueta **li** y ahi se escribe.
+
+## Multimedia
