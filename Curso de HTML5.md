@@ -8,8 +8,6 @@
 - **body**: Aqui va lo que se puede ver en la pagina.
 - **head**: Aqui va lo que no se puede ver en la pagina.
 
-![imagen1.jpg]
-
 ## Etiquetas de titulos
 
 - **h1**: Para el titulo. Solo se pone una.
@@ -37,9 +35,21 @@ Si la pagina no es tuya, la agregas con el https://.
 
 Para abrir una pagina tuya que esta dentro de la misma carpeta, pones el nombre del archivo.
 
+```html
+<a href="imagen1.jpg">enlace a la imagen 1</a>
+```
+
 Si el archivo esta una carpeta adelante, le agregas **/** y el nombre del archivo.
 
+```html
+<a href="/imagen2.jpg">enlace a la imagen 2</a>
+```
+
 Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archivo.
+
+```html
+<a href="../imagen3.jpg">enlace a la imagen 2</a>
+```
 
 ## Listas
 
