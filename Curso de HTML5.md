@@ -8,11 +8,11 @@
 - **body**: Aqui va lo que se puede ver en la pagina.
 - **head**: Aqui va lo que no se puede ver en la pagina.
 
-'''
+´´´
 
 hola
 
-'''
+´´´
 
 ## Etiquetas de titulos
 
