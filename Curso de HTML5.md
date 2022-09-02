@@ -32,5 +32,7 @@ Hay 2 tipos de rutas:
   - Rutas externas: Paginas de internet.
 
 Para abrir una pagina tuya que esta dentro de la misma carpeta, pones el nombre del archivo.
+
 Si el archivo esta una carpeta adelante, le agregas **/** y el nombre del archivo.
+
 Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archivo.
