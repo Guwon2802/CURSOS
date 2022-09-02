@@ -25,9 +25,12 @@
 
 ## Etiqueta de Enlace
 
-- **a**: Para redirigir a otra pagina.
+- **a**: Para redirigir a otra pagina. Se le coloca el *atributo* **href** y dentro a donde va a redirigir el enlace.
 
 Hay 2 tipos de rutas:
   - Rutas locales: Las que estan en nuestra carpeta.
   - Rutas externas: Paginas de internet.
 
+Para abrir una pagina tuya que esta dentro de la misma carpeta, pones el nombre del archivo.
+Si el archivo esta una carpeta adelante, le agregas **/** y el nombre del archivo.
+Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archivo.
