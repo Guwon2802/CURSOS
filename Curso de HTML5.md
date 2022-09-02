@@ -1,20 +1,20 @@
 # HTML5
-
-## Etiquetas principales
+===
+## ETIQUETAS PRINCIPALES
 
 **Primero se pone la etiqueta *DOCTYPE html***
 
 - **html**: Dentro va toda la pagina.
 - **body**: Aqui va lo que se puede ver en la pagina.
 - **head**: Aqui va lo que no se puede ver en la pagina.
-
-## Etiquetas de titulos
+===
+## ETIQUETAS DE TITULOS
 
 - **h1**: Para el titulo. Solo se pone una.
 - **h2**: Para los subtitulos.
 - **h3**,**h4**,**h5** y **h6**: Para subtitulos dentro de un h2.  
-
-## Etiquetas de texto
+===
+## ETIQUETA DE TEXTO
 
 - **p**: Para escribir parrafos.
 - **b**: Letras en negritas.
@@ -23,9 +23,9 @@
 - **small**: Letras chiquitas.
 - **br**: Punto aparte.
 
-## Etiqueta de Enlace
+## ETIQUETA DE ENLACE
 
-- **a**: Para redirigir a otra pagina. Se le coloca el *atributo* **href** y dentro a donde va a redirigir el enlace. Y con el atributo **target** y el *valor* **_blank** abre la pagina en otra pestaña, por defecto la abre en la misma.
+- Etiqueta **a**: Para redirigir a otra pagina. Se le coloca el *atributo* **href** y dentro a donde va a redirigir el enlace. Y con el atributo **target** y el *valor* **_blank** abre la pagina en otra pestaña, por defecto la abre en la misma.
 
 Hay 2 tipos de rutas:
   - Rutas locales: Las que estan en nuestra carpeta.
@@ -51,17 +51,17 @@ Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archiv
 <a href="../imagen3.jpg">enlace a la imagen 3</a>
 ```
 
-## Listas
+## LISTAS
 
 2 tipos de listas
 
-- **ul**: listas desordenadas.
+- Etiqueta **ul**: listas desordenadas.
 
     - asi
     - se
     - ve
 
-- **ol**: Listas ordenadas.
+- Etiqueta **ol**: Listas ordenadas.
 
     1. asi
     2. se
@@ -69,4 +69,17 @@ Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archiv
 
 Dentro va la etiqueta **li** y ahi se escribe.
 
-## Multimedia
+## MULTIMEDIA
+
+- Etiqueta **img**: Para colocar una imagen. Con el *atributo* **src**, hace lo mismo que el *atributo* **href**.
+
+Hay dos formas de poder poner la imagen:
+  - Usando la de otra pagina.
+  - Descargandola y guardandola en la carpeta de tu pagina.
+
+- Etiqueta **video**: Para agregar un video. Con el *atributo* **src** y el *atributo* **controls** para que el navegador te lo reproduzca.
+
+- Etiqueta **audio**: para agregar un audio. Con el *atributo* **src** y el *atributo* **controls**.
+
+## DIVS
+
