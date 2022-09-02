@@ -21,3 +21,13 @@
 - **i**: Inclinar las letras.
 - **strike**: Tachar las letras. 
 - **small**: Letras chiquitas.
+- **br**: Punto aparte.
+
+## Etiqueta de Enlace
+
+- **a**: Para redirigir a otra pagina.
+
+Hay 2 tipos de rutas:
+  - Rutas locales: Las que estan en nuestra carpeta.
+  - Rutas externas: Paginas de internet.
+
