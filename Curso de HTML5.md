@@ -105,5 +105,5 @@ Dentro del **input** se pueden usar los *atributos*:
 
 > Con el *atributo* **required** el usuario tiene que llenar obligatoriamente dicho **input**.
 
-Cuando se trabaja con la etiqueta **form** se usa el *atributo* **method**, Dentro se puede usar un metodo de encriptado(enc) o **post** para enviar el formulario al servidor.
+Cuando se trabaja con la etiqueta **form** se usa el *atributo* **method**. Dentro se puede usar un metodo de encriptado(enc) o **post** para enviar el formulario al servidor.
 
