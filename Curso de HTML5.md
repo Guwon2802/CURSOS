@@ -3,10 +3,11 @@
 ## Etiquetas principales
 
 **Primero se pone la etiqueta <DOCTYPE html>**
+
 - <html></html>: Dentro va toda la pagina
 - <body></body>: Aqui va lo que se puede ver en la pagina
 - <head></head>: Aqui va lo que no se puede ver en la pagina
-- 
+
 ## Etiquetas de titulos
 
 - <h1></h1>: Para el titulo. Solo se pone una.
