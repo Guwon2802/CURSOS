@@ -57,11 +57,15 @@ Si el archivo esta una carpeta detras, le agregas **../** y el nombre del archiv
 
 - **ul**: listas desordenadas.
 
-    - 
-    - 
-    -
+    - asi
+    - se
+    - ve
 
 - **ol**: Listas ordenadas.
+
+    1. asi
+    2. se
+    3. ve
 
 Dentro va la etiqueta **li** y ahi se escribe.
 
