@@ -8,7 +8,7 @@
 - **body**: Aqui va lo que se puede ver en la pagina.
 - **head**: Aqui va lo que no se puede ver en la pagina.
 
-![imagen1.png]
+![imagen1.jpg]
 
 ## Etiquetas de titulos
 
