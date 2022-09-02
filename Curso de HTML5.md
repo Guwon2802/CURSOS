@@ -111,9 +111,9 @@ Cuando se trabaja con la etiqueta **form** se usa el *atributo* **method**. Dent
 
 Los metadatos son información que describe otra información. Esto va dentro del “head”.
 
-Aqui se utiliza la etiqueta **meta** con los atributos:
+Aqui se utiliza la etiqueta **meta** con los *atributos*:
 
-- **charset**: Para poner un conjunto de caracteres. Con el valor **utf-8** te reconoce las tildes.
+- **charset**: Para poner un conjunto de caracteres. Con el *valor* **utf-8** te reconoce las tildes.
 - **name**: Aqui va el tipo de metadato que queres usar.
 
 Tipos de metadatos:
@@ -145,3 +145,37 @@ En la barra de navegacion van los accesos a la cuenta y demas. Estos se colocan 
 
 Va al costado del articulo, es una parte secundaria.
 Se utiliza la etiqueta **aside**.
+
+## FOOTER
+
+Esto es el pie de pagina y va al final de la pagina. Se utiliza la etiqueta **footer**.
+Es para poner si la pagina tiene copy o no, otros enlaces para contactarnos o redes sociales.
+Aquí se utiliza la etiqueta **h4**.
+
+## TABLAS
+
+- Etiqueta **table**: Para hacer columnas con filas.
+- Con la etiqueta **tr** haces las filas
+- Con la etiqueta **td** haces las columnas.
+
+## ALT y TITLE
+
+- *Atributo* **alt**: Para ponerle un nombre de referencia a una imagen cuando no aparece en la pagina.
+- *Atributo* **title**: Para ponerle un titulo a una imagen. Aparece cuando pones el cursor encima.
+
+## ID
+
+Sirve para enlazar un link con alguna etiqueta de la pagina.
+
+Usas la etiqueta **a** con el *atributo* **href** y en el *valor* pones un **#** con una palabra clave.
+Despues en la etiqueta pones el *atributo* **id** y en el *valor* pones la palabra clave.
+
+```html
+<a herf=#pagina2>ir a la pagina 2</a>
+```
+>Aqui es donde le das click y te manda al otro punto
+
+```html
+<a id="pagina2">pagina 2</a>
+```
+>Aqui es donde te manda el link
