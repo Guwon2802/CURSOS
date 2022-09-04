@@ -22,11 +22,20 @@ La *propiedad* es lo que le queres cambiar.
 
 - **Universal**: Selecciona todas las etiquetas. 
 
-```
-Se escribe asi "*".
+```css
+*{
+    Propiedad: valor;
+}
 ```
 
 - **De tipo**: Seleccionas una etiqueta y edita todas las etiquetas iguales.
+
+```css
+h2{
+    Propiedad: valor;
+}
+```
+
 - **Clases**: Agregas elementos a una *clase* y al editar la *clase*, solo se editan los elementos dentro de ella. 
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
 Para editar la clase tenes que poner un **.** y el nombre de la *clase*.
