@@ -27,6 +27,7 @@ La *propiedad* es lo que le queres cambiar.
     Propiedad: valor;
 }
 ```
+>Asi se usa
 
 - **De tipo**: Seleccionas una etiqueta y edita todas las etiquetas iguales.
 
@@ -37,9 +38,9 @@ h2{
 ```
 >Aqui se editarian todas las etiquetas **h2**
 
-- **Clases**: Agregas elementos a una *clase* y al editar la *clase*, solo se editan los elementos dentro de ella. 
+- **Clases**: Agregas etiquetas a una *clase* y al editarla, solo se editan las etiquetas dentro de ella. 
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
-Para editar la *clase* tenes que poner un **.** y el nombre de la *clase*.
+Para editarla tenes que poner un **.** y el nombre de la *clase*.
 
 ```html
 <h2 class="etiquetah2">
@@ -53,6 +54,7 @@ Para editar la *clase* tenes que poner un **.** y el nombre de la *clase*.
     Propiedad: valor;
 }
 ```
->Aqui estoy editando la *clase*.
+>Aqui estoy editandola.
 
-- **Id**: Seleccionas a una etiqueta y la volves unica.
+- **Id**: Seleccionas a una unica etiqueta.
+
