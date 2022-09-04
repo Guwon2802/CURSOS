@@ -1,7 +1,6 @@
 # CSS
 
 Para empezar se debe colocar en el *head*, del *html*, la etiqueta **link** con los atributos **rel**, **type** y **href**.
-
 En el **rel** colocas el valor **stlysheet**, significa "hoja de estilo".
 
 En el **type**(significa "tipear") colocas el valor **text/css**.
