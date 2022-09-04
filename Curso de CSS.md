@@ -65,4 +65,20 @@ Se utiliza poniendole a una etiqueta el atributo **id** y como valor ponerle una
 >Separar las palabras con una "-".
 
 En css se edita poniendo "#" y la palabra que contenga el **id** que queres editar.
->No puede haber mas de un id con las misma palabras.
+>No puede haber mas de un id con las mismas palabras.
+
+- **Por atributo**: Le creas un atributo, con un valor, a una etiqueta.
+Para editar esa etiqueta en css copias el atributo, con su valor, y lo agregas entre corchetes.
+
+```html
+<h2 arroz"con-leche"></h2>
+```
+>Aqui le agregue un atributo que me invente.
+
+```css
+[arroz"con-leche"]{
+    Propiedad: valor;
+}
+```
+>Aqui estoy editando esa etiqueta mediante el atributo que le di.
+
