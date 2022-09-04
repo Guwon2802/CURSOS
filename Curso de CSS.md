@@ -63,4 +63,5 @@ Para editarla tenes que poner un **.** y el nombre de la *clase*.
 - **Id**: Seleccionas a una unica etiqueta.
 Se utiliza poniendole a una etiqueta el atributo **id** y como valor ponerle una palabra,o varias, para identificarla.
 >Separar las palabras con una **-**.
+
 En css se 
