@@ -1,6 +1,7 @@
 # CSS
 
 Para empezar se debe colocar en el *head*, del *html*, la etiqueta **link** con los atributos **rel**, **type** y **href**.
+
 En el **rel** colocas el valor **stlysheet**, significa "hoja de estilo".
 
 En el **type**(significa "tipear") colocas el valor **text/css**.
@@ -18,6 +19,7 @@ selector{
 }
 ```
 El *selector* son las etiquetas, o la etiqueta, a la cual queremos cambiarle las propiedades.
+
 La *propiedad* es lo que le queres cambiar.
 
 ## TIPOS DE SELECTORES
@@ -41,7 +43,9 @@ h2{
 >Aqui se editarian todas las etiquetas **h2**
 
 - **Clases**: Agregas etiquetas a una *clase* y al editarla, solo se editan las etiquetas dentro de ella. 
+
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
+
 Para editarla tenes que poner un **.** y el nombre de la *clase*.
 
 ```html
