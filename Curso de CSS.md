@@ -43,9 +43,7 @@ h2{
 >Aqui se editarian todas las etiquetas **h2**
 
 - **Clases**: Agregas etiquetas a una *clase* y al editarla, solo se editan las etiquetas dentro de ella. 
-
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
-
 Para editarla tenes que poner un **.** y el nombre de la *clase*.
 
 ```html
