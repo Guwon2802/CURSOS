@@ -39,9 +39,20 @@ h2{
 
 - **Clases**: Agregas elementos a una *clase* y al editar la *clase*, solo se editan los elementos dentro de ella. 
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
-Para editar la clase tenes que poner un **.** y el nombre de la *clase*.
+Para editar la *clase* tenes que poner un **.** y el nombre de la *clase*.
 
+```html
+<h2 class="etiquetah2">
 
+</h2>
+```
+>Aqui le di la *clase* y le puse el nombre.
 
+```css
+.etiquetah2{
+    Propiedad: valor;
+}
+```
+>Aqui estoy editando la *clase*.
 
 - **Id**: Seleccionas a una etiqueta y la volves unica.
