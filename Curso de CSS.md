@@ -102,5 +102,7 @@ h2 p{
 
 ## ESPECIFICIDAD
 
-| !important |
+| !important       |
 | Estilos en linea |
+| Identificadores  |
+| Clases           |
