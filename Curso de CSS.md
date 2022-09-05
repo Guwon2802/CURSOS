@@ -102,4 +102,9 @@ h2 p{
 
 ## ESPECIFICIDAD
 
-![Nivel-de-importancia-de-selectores](Nivel-de-importancia.jpg)
+| Nivel de importancia de los selectores |
+| --- |
+| !importan |
+| Identificadores |
+| Clases; Pseudo-clases; Atributos |
+| Elementos; Pseudo-elementos |
