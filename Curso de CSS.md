@@ -103,7 +103,7 @@ h2 p{
 ## ESPECIFICIDAD
 
 | Nivel de importancia|
-| ----- |
+| --- |
 | !important|
 | Estilos en linea |
 | Identificadores |
