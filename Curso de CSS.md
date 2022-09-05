@@ -102,7 +102,11 @@ h2 p{
 
 ## ESPECIFICIDAD
 
-| !important       |
+| Nivel de importancia|
+| ----- |
+| !important|
 | Estilos en linea |
-| Identificadores  |
-| Clases           |
+| Identificadores |
+| Clases; Pseudo-clases; Atributos |
+| Elementos; Pseudo-elementos|
+
