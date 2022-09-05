@@ -104,8 +104,8 @@ h2 p{
 
 | Nivel de importancia de los selectores |
 | ----- |
-| Estilos en linea |
 | !importan |
+| Estilos en linea |
 | Identificadores |
 | Clases; Pseudo-clases; Atributos |
 | Elementos; Pseudo-elementos |
