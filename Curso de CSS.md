@@ -33,6 +33,7 @@ La *propiedad* es lo que le queres cambiar.
 ```
 >Asi se usa
 
+
 - **De tipo**: Seleccionas una etiqueta y edita todas las etiquetas iguales.
 
 ```css
@@ -41,6 +42,7 @@ h2{
 }
 ```
 >Aqui se editarian todas las etiquetas **h2**
+
 
 - **Clases**: Agregas etiquetas a una *clase* y al editarla, solo se editan las etiquetas dentro de ella. 
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
@@ -60,12 +62,14 @@ Para editarla tenes que poner un "." y el nombre de la *clase*.
 ```
 >Aqui estoy editandola.
 
+
 - **Id**: Seleccionas a una unica etiqueta.
 Se utiliza poniendole a una etiqueta el atributo **id** y como valor ponerle una palabra, o varias, para identificarla.
 >Separar las palabras con una "-".
 
 En css se edita poniendo "#" y la palabra que contenga el **id** que queres editar.
 >No puede haber mas de un id con las mismas palabras.
+
 
 - **Por atributo**: Le creas un atributo, con un valor, a una etiqueta.
 Para editar esa etiqueta en css copias el atributo, con su valor, y lo agregas entre corchetes.
