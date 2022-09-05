@@ -98,4 +98,9 @@ h2 p{
 ```
 >Asi estaria editando los **b** que estan dentro de un **h2** con la clase **h2-class**.
 
-- **Pseudo-clases**:
+- **Pseudo-clases**: Sirve para agregarle un evento a una etiqueta cuando haces algo en concreto. Por ejemplo, que cuando coloques el mouse encima cambie de color.
+
+## ESPECIFICIDAD
+
+| !important |
+| Estilos en linea |
