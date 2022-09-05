@@ -107,8 +107,6 @@ h2 p{
 | !important|
 | Estilos en linea |
 | Identificadores |
-| Clases; 
-Pseudo-clases; 
-Atributos |
+| Clases; Pseudo-clases; Atributos |
 | Elementos; Pseudo-elementos|
 
