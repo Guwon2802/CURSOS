@@ -102,11 +102,4 @@ h2 p{
 
 ## ESPECIFICIDAD
 
-| Nivel de importancia|
-| --- |
-| !important|
-| Estilos en linea |
-| Identificadores |
-| Clases; Pseudo-clases; Atributos |
-| Elementos; Pseudo-elementos|
-
+![Nivel-de-importancia-de-selectores](Nivel-de-importancia.png)
