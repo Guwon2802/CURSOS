@@ -102,4 +102,4 @@ h2 p{
 
 ## ESPECIFICIDAD
 
-![Nivel-de-importancia-de-selectores](Nivel-de-importancia.png)
+![Nivel-de-importancia-de-selectores](Nivel-de-importancia.jpg)
