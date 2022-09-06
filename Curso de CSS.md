@@ -137,7 +137,7 @@ En CSS hay dos unidades de medida:
 - **Relativas**: Son variables. Dependen de la caja contenedora.
 >Sirve para que tu pagina web se adapte a moviles y tablets.
 
->la unidad de medida es "em". La equivalencia normal es 1em son 16px.
+>La unidad de medida es "em". La equivalencia normal es 1em son 16px.
 - **Fijas**: Son fijas, como los milimetros(mm), pixeles(px), punto(pt), centrimetros(cm).
 
 La propiedad para editar el tamaño de la letra es **font-side**.
