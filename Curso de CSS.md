@@ -218,3 +218,16 @@ h2 {
 
 ## HEIGHT Y WIDHT
 
+- **height**: Es el alto de la caja.
+- **Widht**: Es el ancho de la caja.
+
+## BOX-SIZING
+
+Con esta propiedad puedes hacer 2 cosas:
+- Con el valor **content-box** los valores del **padding** estaran por fuera de los del **height** y el **widht**.
+- Con el valor **border-box** el **padding** no pasara los valores del **height** y el **width**.
+
+## MARGIN
+
+Esta propiedad separa la caja de las demas cosas por los cuatro lados. Funciona igual que el **padding**.
+>Con el valor **auto** Centra la caja horizontalmente al medio de la pagina.
