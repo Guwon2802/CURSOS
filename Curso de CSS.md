@@ -172,3 +172,49 @@ Para usarlo simplemente se debe ir al navegador y buscar "normalize", una vez en
 Una vez lo tengas tenes que editarlo, busca dentro del archivo el selector **img** y agregale esta propiedad y valor "max-width: 100%". Despues anda arriba del todo y usa el selector universal y agregale las propiedades "box-sizing:border-box;" "padding: 0;" "margin: 0;". 
 >Si no queres tener que editarlo nomas copialo de este repositorio y pegalo en un archivo ".css".
 
+## CAJAS
+
+Hay etiquetas que son en linea, ocupan todo el ancho del contenedor, y otras que son en bloque, ocupan solo el ancho de la letra. Para invertirlo usas la propiedad **display** con los valores **block** o **inline**.
+
+## PADDING
+
+Esta propiedad es para cambiar el espacio que hay entre el texto y la caja. 
+
+Se usa la propiedad **padding**.
+- **padding-top**: Modifica el espacio superior.
+- **padding-right**: Modifica el espacio derecho.
+- **padding-bottom**: Modifica el espacio inferior.
+- **padding-left**: Modifica el espacio izquierdo.
+
+Esto se puede abrebiar usando el **padding** y luegos los valores.
+
+```css
+h2 {
+    padding: 10px;
+}
+```
+>Aqui le estas dando 20px a los cuatro lados.
+
+```css
+h2 {
+    padding: 10px 20px;
+}
+```
+>Aqui le estas dando 10px al eje Y y 20px al eje X.
+
+```css
+h2 {
+    padding: 10px 20px 30px;
+}
+```
+>Aqui le estas dando 10 px al top, 20px al eje X y 30px al bottom.
+
+```css
+h2 {
+    padding: 10px 20px 30px 40px;
+}
+```
+>Aqui le estas dando 10px en top, 20px en right, 30px en bottom y 40px en left.
+
+## HEIGHT Y WIDHT
+
