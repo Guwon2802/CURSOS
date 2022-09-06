@@ -135,5 +135,7 @@ Este metodo sirve para que no hayan tantos problemas al utilizar tantos selector
 
 En CSS hay dos unidades de medida:
 - **Relativas**: Son variables. Dependen de la caja contenedora.
+>Trabajar con medidas relativas sirve para que tu pagina web se adapte a moviles y tablets.
 - **Fijas**: Son fijas, como los milimetros(mm), pixeles(px), punto(pt), centrimetros(cm).
 
+La propiedad para editar el tamaño de la letra es **font-side**.
