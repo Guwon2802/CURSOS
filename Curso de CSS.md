@@ -147,3 +147,11 @@ La propiedad para editar el tamaño de la letra es **font-side**.
 
 ## PROPIEDADES DE TEXTO
 
+- **font-size**: Para ajustar el tamaño de la letra.
+- **font-family**: Para la tipografia.
+- **line-height**: Para el espacio que ocupara.
+- **font-weight**: Para el grosor de la letra.
+
+## TIPOGRAFIAS EXTERNAS
+
+Para usar tipografias externas tenes que ir a la siguiente pagina "https://fonts.google.com"
