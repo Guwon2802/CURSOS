@@ -144,3 +144,6 @@ En CSS hay dos unidades de medida:
 - **Fijas**: Son fijas, como los milimetros(mm), pixeles(px), punto(pt), centrimetros(cm).
 
 La propiedad para editar el tamaño de la letra es **font-side**.
+
+## PROPIEDADES DE TEXTO
+
