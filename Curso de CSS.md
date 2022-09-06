@@ -133,3 +133,7 @@ Este metodo sirve para que no hayan tantos problemas al utilizar tantos selector
 
 ## UNIDADES DE MEDIDA
 
+En CSS hay dos unidades de medida:
+- **Relativas**: Son variables. Dependen de la caja contenedora.
+- **Fijas**: Son fijas, como los milimetros(mm), pixeles(px), punto(pt), centrimetros(cm).
+
