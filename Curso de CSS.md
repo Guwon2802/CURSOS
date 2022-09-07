@@ -240,6 +240,8 @@ La propiedad **border-radius** sirve para redonder el borde, se puede usar px, e
 La propiedad **border** es para colocarle un borde a la caja. Sus valores son 3:
 1. Primero se coloca lo que medira la caja.
 2. Segundo se coloca el estilo de borde.
+
+Estan estos estilos de borde.
 - **solid**
 - **dashed**
 - **double**
