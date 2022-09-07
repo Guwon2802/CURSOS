@@ -226,8 +226,18 @@ h2 {
 Con esta propiedad puedes hacer 2 cosas:
 - Con el valor **content-box** los valores del **padding** estaran por fuera de los del **height** y el **widht**.
 - Con el valor **border-box** el **padding** no pasara los valores del **height** y el **width**.
+>Con la propiedad **text-aling** y el valor **center** centra el texto horizontalmente.
 
 ## MARGIN
 
 Esta propiedad separa la caja de las demas cosas por los cuatro lados. Funciona igual que el **padding**.
 >Con el valor **auto** Centra la caja horizontalmente al medio de la pagina.
+
+## BORDES
+
+La propiedad **border-radius** sirve para redonder el borde, se puede usar px, em, % y demas.
+
+La propiedad **border** es para colocarle un borde a la caja. Sus valores son 3
+1. Se coloca lo que medira la caja.
+2. Se coloca el estilo de borde.
+- 
