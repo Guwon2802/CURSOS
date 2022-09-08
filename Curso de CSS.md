@@ -279,7 +279,7 @@ Es una propiedad que agrega un borde que no ocupa espacio. Como un resaltador. F
 
 ## POSITION
 
->Antes de leer todo lo que sigue tenes que entender que cada elemento en html tiene un lugar reservado.
+>Antes de leer todo lo que sigue tenes que saber que cada elemento en html tiene un lugar reservado.
 
 Esta propiedad posiciona un elemento, al hacerlo adquiere nuevas propiedades.
 - top: Desplaza el elemento hacia abajo. Se usan unidades de medida. Se pueden usar medidas negativas.
