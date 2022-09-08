@@ -331,11 +331,21 @@ Sus valores son:
 
 Los pseudoelementos se agregan a un elemento.
 
+```css
+.texto::first-line {
+
+}
+```
+>Se editan los pseudoelementos agregandole al selector dos punto y el pseudoelemento.
+
 Los pseudoelementos son:
 - **first-line**: Sirve para editar la primera linea del texto. 
 - **first-letter**: Sirve para editar la primera letra del texto.
 >Estas dos etiquetas no funcionan con elementos en linea.
 - **spaceholder**: Sirve para agregar texto al imput el cual desaparece cuando escribis. Lo agregas como atributo y como valor ira el texto.
 - **selection**: Sirve para editar la seleccion. Actua como elemento en linea.
+- **before**: Sirve para agregar algo antes del texto. No puede ser seleccionado.
+- **after**: Sirve para agregar algo despues del texto. No puede ser seleccionado.
 
+## PSEUDOCLASES
 
