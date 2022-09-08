@@ -295,3 +295,16 @@ Hay 5 valores con los que posicionar un elemento:
 >Solo toma al contenedor como punto de referencia si este esta posicionado.
 - **fixed**: Esta propiedad hace lo mismo que *absolute* pero con esta el elemento queda fijo.
 - **sticky**: Esta propiedad hace lo mismo que *relative* y lo mismo que *fixed* pero solo se comporta como *fixed* cuando llegas al punto que le decis.
+
+## DISPLAY
+
+Esta propiedad afecta el comportamiento de la caja. Su valores son:
+- **block**: La caja se comporta en bloque. 
+- **inline**: La caja se comporta en linea. A los elementos en linea no se les puede cambiar el alto ni el ancho y se ajustan al contenido.
+- **inline-block**: La caja se comporta como en linea pero si se le puede cambiar la altura y el ancho.
+- **flex**
+- **grid**
+- **inline-flex**
+- **inline-grid**
+>Estos ultimos 4 los explico mas adelante.
+
