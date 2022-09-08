@@ -339,13 +339,31 @@ Los pseudoelementos se agregan a un elemento.
 >Se editan los pseudoelementos agregandole al selector dos punto y el pseudoelemento.
 
 Los pseudoelementos son:
-- **first-line**: Sirve para editar la primera linea del texto. 
-- **first-letter**: Sirve para editar la primera letra del texto.
+- **first-line**: Para editar la primera linea de texto.
+- **first-letter**: Para editar la primera letra del texto.
 >Estas dos etiquetas no funcionan con elementos en linea.
-- **spaceholder**: Sirve para agregar texto al imput el cual desaparece cuando escribis. Lo agregas como atributo y como valor ira el texto.
-- **selection**: Sirve para editar la seleccion. Actua como elemento en linea.
-- **before**: Sirve para agregar algo antes del texto. No puede ser seleccionado.
-- **after**: Sirve para agregar algo despues del texto. No puede ser seleccionado.
+- **spaceholder**: Agregas texto al imput el cual desaparece cuando escribis. Lo agregas como atributo y como valor, el texto.
+- **selection**: Para editar la seleccion. Actua como elemento en linea.
+- **before**: Para agregar algo antes del texto. No puede ser seleccionado.
+- **after**: Para agregar algo despues del texto. No puede ser seleccionado.
 
 ## PSEUDOCLASES
+
+Las pseudoclases son eventos que ocurren cuando haces algo en concreto.
+
+```css
+.caja1:hover {
+    propiedad: valor;
+}
+```
+>Asi se editan las pseudoclases.
+
+Estas son las pseudoclases:
+- **hover**: Le das efectos a un elemento cuando esta el mouse encima.
+- **link**: Cambias el color a un link que nunca visito el usuario. Si el usuario ya lo visito, tendra el color original.
+- **visited**: Cambias el color a un link que el usuario ya visito.
+- **active**: Cambia el elemento cuando mantenes apretado encima.
+- **focus**: Cambia cuando tenes seleccionado un input.
+
+## OBJET-FIT
 
