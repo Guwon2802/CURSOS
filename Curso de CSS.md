@@ -333,7 +333,7 @@ Los pseudoelementos se agregan a un elemento.
 
 ```css
 .texto::first-line {
-
+    propiedad: valor;
 }
 ```
 >Se editan los pseudoelementos agregandole al selector dos punto y el pseudoelemento.
