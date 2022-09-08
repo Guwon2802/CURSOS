@@ -293,4 +293,5 @@ Hay 5 valores con los que posicionar un elemento:
 - **relative**: Esta propiedad permite desplazar al elemento sin que este pierda su lugar reservado y el punto de referencia para el desplazamiento sera el lugar reservado.
 - **absolute**: Esta propiedad permite hacer lo mismo que *relative* pero el elemento pierde su lugar reservado. Su punto de referencia es el contenedor o el viewport. La caja se ajusta al tamaño del contenido.
 >Solo toma al contenedor como punto de referencia si este esta posicionado.
--
+- **fixed**: Esta propiedad hace lo mismo que *absolute* pero con esta el elemento queda fijo.
+- **sticky**: Esta propiedad hace lo mismo que *relative* y lo mismo que *fixed* pero solo se comporta como *fixed* cuando llegas al punto que le decis.
