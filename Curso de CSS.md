@@ -103,12 +103,12 @@ h2 p{
 ## ESPECIFICIDAD
 
 | Nivel de importancia de los selectores |
-| ----- |
-| !importan |
-| Estilos en linea |
-| Identificadores |
-| Clases; Pseudo-clases; Atributos |
-| Elementos; Pseudo-elementos |
+| -------------------------------------- |
+| !importan                              |
+| Estilos en linea                       |
+| Identificadores                        |
+| Clases; Pseudo-clases; Atributos       |
+| Elementos; Pseudo-elementos            |
 
 >El que este mas arriba es mas importante. Si usas 2 selectores de diferente importancia para editar una misma etiqueta, tomara el que tenga mayor importancia. Si usas 2 selectores que tienen la misma importancia, tomara el que este escrito por debajo.
 
@@ -367,3 +367,24 @@ Estas son las pseudoclases:
 
 ## OBJET-FIT
 
+Con esta propiedad modificas la resolucion de las imagenes.
+
+Sus valores son:
+- **contain**: La imagen se ajustara a su resolucion original sin importar que sobre espacio en el contenedor.
+- **cover**: La resolucion de la imagen se adapta al contenedor y recorta lo que sobra.
+- **none**: Pone la resolucion original de la imagen sin importar el tamaño del contenedor.
+- **scale-down**: Elige entre *contain* y *none* y el que tenga menor resolucion, es el que pondra.
+
+## OBJET-POSITION
+
+Esta propiedad sirve para  la imagen dentro del contenedor.
+
+Sus valores son **top**, **right**, **bottom**, **left** y **unidades de medidad**.
+
+## CURSOR
+
+En la siguiente pagina podes elegir cursores que podes poner en tu pagina durante ciertos momentos.
+
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
+
+##
