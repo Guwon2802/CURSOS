@@ -409,6 +409,6 @@ Las formas de definir un color son:
 }
 ```
 >Dentro de los parentesis pones 3 numeros, separados por una coma, del 0 al 255. 
->El primer numero, es cuando rojo queres ponerle. 
->El segundo numero, es cuanto verde queres ponerle. 
->El tercer numero es cuanto azul queres ponerle.
+El primer numero, es cuando rojo queres ponerle. 
+El segundo numero, es cuanto verde queres ponerle. 
+El tercer numero es cuanto azul queres ponerle.
