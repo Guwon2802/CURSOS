@@ -387,4 +387,28 @@ En la siguiente pagina podes elegir cursores que podes poner en tu pagina durant
 
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
 
-##
+## COLORIZACION
+
+Aca se explica como se define un color con CSS.
+
+Las formas de definir un color son:
+
+- **Con el nombre del color en ingles**
+
+```css
+.caja {
+    background: red;
+}
+```
+
+- **Usando RGB**
+
+```css
+.caja {
+    background: rgb(0,0,0)
+}
+```
+>Dentro de los parentesis pones 3 numeros, separados por una coma, del 0 al 255. 
+El primer numero, es cuando rojo queres ponerle. 
+El segundo numero, es cuanto verde queres ponerle. 
+El tercer numero es cuanto azul queres ponerle.
