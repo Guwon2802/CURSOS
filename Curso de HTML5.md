@@ -57,16 +57,14 @@ Si el archivo esta una carpeta detras, le agregas "../" y el nombre del archivo.
 2 tipos de listas
 
 - Etiqueta **ul**: listas desordenadas.
-
-  - asi
-  - se
-  - ve
+  - Asi
+  - Se
+  - Ve
 
 - Etiqueta **ol**: Listas ordenadas.
-
-  1. asi
-  2. se
-  3. ve
+  1. Asi
+  2. Se
+  3. Ve
 
 >Dentro va la etiqueta **li** y ahi se escribe.
 
