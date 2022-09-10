@@ -333,7 +333,7 @@ Sus valores son:
 - **left**: Coloca la imagen a la izquierda.
 - **right**: Coloca la imagen a la derecha.
 
-## PSEUDOELEMENTOS
+## PSEUDO-ELEMENTOS
 
 Los pseudoelementos se agregan a un elemento.
 
@@ -353,7 +353,7 @@ Los pseudoelementos son:
 ```
 >Asi se agregan los pseudoelementos.
 
-## PSEUDOCLASES
+## PSEUDO-CLASES
 
 Las pseudoclases son eventos que ocurren cuando haces algo en concreto.
 
