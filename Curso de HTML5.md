@@ -90,6 +90,7 @@ Si el archivo esta una carpeta detras, le agregas "../" y el nombre del archivo.
   - Dentro se usa la etiqueta **input**, es donde el usuario debe colocar informacion.
 
 Dentro del **input** se pueden usar los *atributos*:
+  
   - **text**: Solo puede escribir texto.
   - **password**: Solo puede escribir contraseña.
   - **number**: Solo puede escribir numeros.
@@ -101,7 +102,6 @@ Dentro del **input** se pueden usar los *atributos*:
   - **button**: Es un boton. Agregale el *atributo* **Value** para escribir algo.
   - **submit**: Un boton para enviar el formulario.
   - **textarea**: Puede escribir y cambiar el tamaño. Con el *atributo* **readonly** solo puede leer el contenido.
-  
 
 > Con el *atributo* **required** el usuario tiene que llenar obligatoriamente dicho **input**.
 
@@ -113,7 +113,8 @@ Los metadatos son información que describe otra información. Esto va dentro de
 
 Aqui se utiliza la etiqueta **meta** con los *atributos*:
 
-- **charset**: Para poner un conjunto de caracteres. Con el *valor* **utf-8** te reconoce las tildes.
+- **charset**: Para poner un conjunto de caracteres. 
+  - Con el *valor* **utf-8** te reconoce las tildes.
 - **name**: Aqui va el tipo de metadato que queres usar.
 
 Tipos de metadatos:
@@ -121,7 +122,8 @@ Tipos de metadatos:
 - **keywords**: Para poner palabras claves y asi, si la gente las usa, pueda aparecer tu pagina.
 - **description**: Para colocar una descripcion de la pagina.
 - **author**: Para indicar quien es el autor de la pagina.
-- **copyright**: Por si la pagina es para una empresa que tiene derechos de autor. Dentro de **content** va el nombre de la empresa.
+- **copyright**: Por si la pagina es para una empresa que tiene derechos de autor. 
+  - Dentro de **content** va el nombre de la empresa.
 
 >Los datos que quieras agregar van dentro del *atributo* **content**, el cual va despues del **name**.
 
@@ -139,7 +141,8 @@ En la barra de navegacion van los accesos a la cuenta y demas. Estos se colocan 
 
 ## SECCION Y ARTICULO
 
-- Etiqueta **article**: para mostar un articulo. Dentro se coloca la etiqueta **section** para hacer una seccion.
+- Etiqueta **article**: para mostar un articulo. 
+  - Dentro se coloca la etiqueta **section** para hacer una seccion.
 
 ## ASIDE
 
@@ -155,8 +158,8 @@ Aquí se utiliza la etiqueta **h4**.
 ## TABLAS
 
 - Etiqueta **table**: Para hacer columnas con filas.
-- Con la etiqueta **tr** haces las filas
-- Con la etiqueta **td** haces las columnas.
+  - Con la etiqueta **tr** haces las filas
+  - Con la etiqueta **td** haces las columnas.
 
 ## ALT y TITLE
 
@@ -167,18 +170,15 @@ Aquí se utiliza la etiqueta **h4**.
 
 Sirve para enlazar un link con alguna etiqueta de la pagina.
 
-Usas la etiqueta **a** con el *atributo* **href** y en el *valor* pones un **#** con una palabra clave.
-Despues en la etiqueta pones el *atributo* **id** y en el *valor* pones la palabra clave.
+```html
+<a href="#historia2">historia 2</a>
+```
+>Usas la etiqueta **a** con el *atributo* **href** y de *valor* pones un **#** con una palabra clave.
 
 ```html
-<a herf=#pagina2>ir a la pagina 2</a>
+<h2 id="historia2">Cuentos de tatara</h2>
 ```
->Aqui es donde le das click y te manda al otro punto
-
-```html
-<a id="pagina2">pagina 2</a>
-```
->Aqui es donde te manda el link
+>Despues en la etiqueta pones el *atributo* **id** y de *valor* pones la palabra clave.
 
 ## ICONO DE LA PAGINA
 
