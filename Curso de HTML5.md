@@ -173,7 +173,7 @@ Sirve para enlazar un link con alguna etiqueta de la pagina.
 ```html
 <a href="#historia2">historia 2</a>
 ```
->Usas la etiqueta **a** con el *atributo* **href** y de *valor* pones un **#** con una palabra clave.
+>En la etiqueta **a**, dentro del **href**, colocas un "#" con una palabra clave.
 
 ```html
 <h2 id="historia2">Cuentos de tatara</h2>
