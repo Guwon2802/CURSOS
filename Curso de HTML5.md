@@ -89,7 +89,7 @@ Si el archivo esta una carpeta detras, le agregas "../" y el nombre del archivo.
 - Etiqueta **form**: Para crear formularios. Dentro se usa la etiqueta **input**, es donde el usuario debe colocar informacion.
 
 Dentro del **input** se pueden usar los *atributos*:
-
+  
   - **text**: Solo puede escribir texto.
   - **password**: Solo puede escribir contraseña.
   - **number**: Solo puede escribir numeros.
