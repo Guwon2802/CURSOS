@@ -116,7 +116,7 @@ h2 p{
 
 >El que este mas arriba es mas importante. Si usas 2 selectores de diferente importancia para editar una misma etiqueta, tomara el que tenga mayor importancia. Si usas 2 selectores que tienen la misma importancia, tomara el que este escrito por debajo.
 
-## METODOLOGIA GEM
+## METODOLOGIA BEM
 
 Este metodo sirve para que no hayan tantos problemas al utilizar tantos selectores.
 
