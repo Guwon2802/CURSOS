@@ -423,3 +423,9 @@ El tercer numero, es cuanto azul queres ponerle.
 >Este es casi lo mismo que RGB pero el cuarto numero es la *opacidad*, su valor es de 0 a 1.
 
 - **Exadecimal**
+
+
+## CONCEPTO DE FLEXBOX
+
+* hola
+  * hola
