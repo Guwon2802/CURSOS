@@ -6,6 +6,7 @@ Para empezar se debe colocar en el *head*, del *html*, la etiqueta **link** con 
   - En el **href** colocas la ruta hacia el archivo css. 
 >Tienes que crear un archivo ".css" en la carpeta de la pagina.
 
+
 ## ESTRUCTURA
 
 La estructura de CSS es:
@@ -15,13 +16,13 @@ selector{
     propiedad: valor;
 }
 ```
-El *selector* son las etiquetas, o la etiqueta, a la cual queremos cambiarle las propiedades.
+El *selector* son los elementos, o el elemento, a la cual queremos cambiarle las propiedades.
 
 La *propiedad* es lo que le queres cambiar.
 
 ## TIPOS DE SELECTORES
 
-- **Universal**: Selecciona todas las etiquetas. 
+- **Universal**: Selecciona todos los elementos. 
 
 ```css
 *{
@@ -29,6 +30,7 @@ La *propiedad* es lo que le queres cambiar.
 }
 ```
 >Asi se usa
+
 
 - **De tipo**: Seleccionas una etiqueta y edita todas las etiquetas iguales.
 
@@ -38,6 +40,7 @@ h2{
 }
 ```
 >Aqui se editarian todas las etiquetas **h2**
+
 
 - **Clases**: Agregas etiquetas a una *clase* y al editarla, solo se editan las etiquetas dentro de ella. 
 Para hacerlo les agregas el atributo **class** y el valor que le tenes que dar sera el nombre de la *clase*. 
@@ -57,12 +60,14 @@ Para editarla tenes que poner un "." y el nombre de la *clase*.
 ```
 >Aqui estoy editandola.
 
+
 - **Id**: Seleccionas a una unica etiqueta.
 Se utiliza poniendole a una etiqueta el atributo **id** y como valor ponerle una palabra, o varias, para identificarla.
 >Separar las palabras con una "-".
 
 En css se edita poniendo "#" y la palabra que contenga el **id** que queres editar.
 >No puede haber mas de un id con las mismas palabras.
+
 
 - **Por atributo**: Le creas un atributo, con un valor, a una etiqueta.
 Para editar esa etiqueta en css copias el atributo, con su valor, y lo agregas entre corchetes.
@@ -79,6 +84,7 @@ Para editar esa etiqueta en css copias el atributo, con su valor, y lo agregas e
 ```
 >Aqui estoy editando esa etiqueta mediante el atributo que le di.
 
+
 - **Descendiente**: Sirve para seleccionar un elemento que este dentro de otro elemento.
 
 ```css
@@ -94,6 +100,7 @@ h2 p{
 }
 ```
 >Asi estaria editando los **b** que estan dentro de un **h2** con la clase **h2-class**.
+
 
 - **Pseudo-clases**: Sirve para agregarle un evento a una etiqueta cuando haces algo en concreto. Por ejemplo, que cuando coloques el mouse encima cambie de color.
 
@@ -131,12 +138,14 @@ Este metodo sirve para que no hayan tantos problemas al utilizar tantos selector
 ## UNIDADES DE MEDIDA
 
 En CSS hay dos unidades de medida:
+
 - **Relativas**: Son variables. Dependen de la caja contenedora.
 >Sirve para que tu pagina web se adapte a moviles y tablets.
 
 >La unidad de medida es "em". La equivalencia normal es 1em son 16px.
 
 >Para cambiar la equivalencia, agregale la medida que quieras a la caja contenedora, y todo lo que este dentro tendra como equivalencia esa medida.
+
 
 - **Fijas**: Son fijas, como los milimetros(mm), pixeles(px), punto(pt), centrimetros(cm).
 
@@ -279,11 +288,11 @@ Es una propiedad que agrega un borde que no ocupa espacio. Como un resaltador. F
 >Antes de leer todo lo que sigue tenes que saber que cada elemento en html tiene un lugar reservado.
 
 Esta propiedad posiciona un elemento, al hacerlo adquiere nuevas propiedades.
-- top: Desplaza el elemento hacia abajo. Se usan unidades de medida. Se pueden usar medidas negativas.
-- left: Desplaza el elemento hacia la derecha. Se usan unidades de medida. Se pueden usar medidas negativas.
-- right: Esta se vuelve inutil si esta left.
-- bottom: Esta se vuelve inutil si esta top.
-- z-index: Esta propiedad sirve para superponer elementos. Le das un valor numerico a un elemento y este se pondra por delante de los que tenga un valor numerico inferior.
+- **top**: Desplaza el elemento hacia abajo. Se usan unidades de medida. Se pueden usar medidas negativas.
+- **left**: Desplaza el elemento hacia la derecha. Se usan unidades de medida. Se pueden usar medidas negativas.
+- **right**: Esta se vuelve inutil si esta left.
+- **bottom**: Esta se vuelve inutil si esta top.
+- **z-index**: Esta propiedad sirve para superponer elementos. Le das un valor numerico a un elemento y este se pondra por delante de los que tenga un valor numerico inferior.
 
 Hay 5 valores con los que posicionar un elemento:
 - **static**: Es el valor predeterminado.
@@ -328,13 +337,6 @@ Sus valores son:
 
 Los pseudoelementos se agregan a un elemento.
 
-```css
-.texto::first-line {
-    propiedad: valor;
-}
-```
->Se editan los pseudoelementos agregandole al selector dos punto y el pseudoelemento.
-
 Los pseudoelementos son:
 - **first-line**: Para editar la primera linea de texto.
 - **first-letter**: Para editar la primera letra del texto.
@@ -344,16 +346,16 @@ Los pseudoelementos son:
 - **before**: Para agregar algo antes del texto. No puede ser seleccionado.
 - **after**: Para agregar algo despues del texto. No puede ser seleccionado.
 
-## PSEUDOCLASES
-
-Las pseudoclases son eventos que ocurren cuando haces algo en concreto.
-
 ```css
-.caja1:hover {
+.texto::first-line {
     propiedad: valor;
 }
 ```
->Asi se editan las pseudoclases.
+>Asi se agregan los pseudoelementos.
+
+## PSEUDOCLASES
+
+Las pseudoclases son eventos que ocurren cuando haces algo en concreto.
 
 Estas son las pseudoclases:
 - **hover**: Le das efectos a un elemento cuando esta el mouse encima.
@@ -361,6 +363,13 @@ Estas son las pseudoclases:
 - **visited**: Cambias el color a un link que el usuario ya visito.
 - **active**: Cambia el elemento cuando mantenes apretado encima.
 - **focus**: Cambia cuando tenes seleccionado un input.
+
+```css
+.caja1:hover {
+    propiedad: valor;
+}
+```
+>Asi se agregan las pseudoclases.
 
 ## OBJET-FIT
 
