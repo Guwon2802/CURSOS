@@ -383,9 +383,9 @@ Sus valores son:
 
 ## OBJET-POSITION
 
-Esta propiedad sirve para  la imagen dentro del contenedor.
+Esta propiedad sirve para la imagen dentro del contenedor.
 
-Sus valores son 
+Sus valores son:
 - **top** 
 - **right** 
 - **bottom** 
