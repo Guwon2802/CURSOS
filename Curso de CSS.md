@@ -385,7 +385,12 @@ Sus valores son:
 
 Esta propiedad sirve para  la imagen dentro del contenedor.
 
-Sus valores son **top**, **right**, **bottom**, **left** y **unidades de medidad**.
+Sus valores son 
+- **top** 
+- **right** 
+- **bottom** 
+- **left** 
+- **unidades de medidad**
 
 ## CURSOR
 
