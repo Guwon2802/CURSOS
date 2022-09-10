@@ -6,7 +6,6 @@ Para empezar se debe colocar en el *head*, del *html*, la etiqueta **link** con 
   - En el **href** colocas la ruta hacia el archivo css. 
 >Tienes que crear un archivo ".css" en la carpeta de la pagina.
 
-
 ## ESTRUCTURA
 
 La estructura de CSS es:
@@ -438,8 +437,3 @@ El tercer numero, es cuanto azul queres ponerle.
 
 ## CONCEPTO DE FLEXBOX
 
-* hola
-  * hola
-
-- hola
-  - hola
