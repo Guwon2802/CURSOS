@@ -33,7 +33,7 @@ Hay 2 tipos de rutas:
   - Rutas locales: Las que estan en nuestra carpeta.
   - Rutas externas: Paginas de internet.
 
-Si la pagina no es tuya, la agregas con "https://".
+Si la pagina no es tuya, la agregas con *https://*.
 
 Para abrir una pagina tuya que esta dentro de la misma carpeta, pones el nombre del archivo.
 
