@@ -1,1 +1,1 @@
-* [Etiquetas Principales](Curso_de_html/Etiquetas_Principales.md)
+* [Etiquetas Principales](Curso_de_HTML/Etiquetas_Principales.md)
