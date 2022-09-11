@@ -1,2 +1,2 @@
 #CURSOS
- * [Curso de HTML](Diretorio.md)
+ * [Curso de HTML](Directorio.md)
