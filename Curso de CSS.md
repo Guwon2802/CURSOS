@@ -437,4 +437,4 @@ El tercer numero, es cuanto azul queres ponerle.
 
 ## CONCEPTO DE FLEXBOX
 
-[828361a1.jpg](https://postimg.cc/Mv4kmsbx)
+[Estructura-flexbox.png](https://postimg.cc/8FpbJGJC)
