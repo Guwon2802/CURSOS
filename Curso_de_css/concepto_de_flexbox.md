@@ -1,3 +1,3 @@
-Estructura Flexbox
+## ESTRUCTURA DE FLEXBOX
  
-![Estructura de Flebox](Estructura_Flexbox.png)
+![Estructura de Flebox](https://postimg.cc/8FpbJGJC)
