@@ -1,6 +1,6 @@
 ## DISPLAY-FLEX
 
-*display flex* se le agrega al contenedor y se aplicara a los elementos dentro de este. El contenedor se volvera un *flex-container* y los elementos dentro se vuelven *flex-items*.
+*display flex* se aplica al contenedor y afecta a los elementos dentro de este. El contenedor se volvera un *flex-container* y los elementos dentro se vuelven *flex-items*.
 
 ```css
 .flex-container {

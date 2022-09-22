@@ -439,3 +439,4 @@ El tercer numero, es cuanto azul queres ponerle.
 
 ## DISPLAY FLEX
 
+## FLEX DIRECTION
