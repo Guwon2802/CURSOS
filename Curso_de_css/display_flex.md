@@ -22,4 +22,4 @@
 </div>
 ```
 
->Estos *flex-items* se pondra uno al lado del otro horizontalmente. El alto de los flex-items sera siempre el mismo sin importar nada.
+>Estos *flex-items* se pondran uno al lado del otro horizontalmente. El alto de los flex-items sera siempre el mismo sin importar nada.
