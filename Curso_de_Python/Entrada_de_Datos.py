@@ -5,7 +5,7 @@ nombre = input("Coloque aqui su nombre: ") # Con "input" se guarda un dato de ti
 # El programa no continuara hasta que le coloques algo.
 # Tambien guarda espacios, como para agregar tu nombre completo. 
 
-print(f"Hola {nombre}") # Asi lo estarias saludando.
+print(f"Hola {nombre}") # Asi le estas agregando texto.
 
 
 
