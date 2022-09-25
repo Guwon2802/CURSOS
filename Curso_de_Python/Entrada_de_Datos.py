@@ -6,3 +6,15 @@ nombre = input("Coloque aqui su nombre: ") # Con "input" se guarda un dato de ti
 # Tambien guarda espacios, como para agregar tu nombre completo. 
 
 print(f"Hola {nombre}") # Asi lo estarias saludando.
+
+
+
+edad = int(input("Coloca tu edad: ")) # Asi permite guardar un dato tipo "int".
+
+print(f"Tiene {edad} años")
+
+
+
+numero = float(input("Coloca un numero:")) #Asi permite guardar un dato tipo "float"
+
+print(numero)
