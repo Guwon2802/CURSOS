@@ -15,6 +15,6 @@ print(f"Tiene {edad} años")
 
 
 
-numero = float(input("Coloca un numero:")) #Asi permite guardar un dato tipo "float"
+numero = float(input("Coloca un numero:")) # Asi permite guardar un dato tipo "float"
 
 print(numero)
