@@ -12,7 +12,7 @@ print(type(numero))
 
 # Una variable es para almacenar un dato. Ponele una palabra intuitiva.
 # Al usar "print" sin las comillas, se mostrara el dato que almacena la variable.
-# Con la funcion "type" python mostrara el tipo de valor que almacena la variable. Tipo entero, float, str, etc.
+# Con la funcion "type" python mostrara el tipo de valor que almacena la variable.
 
 
 # ASIGNACION DE VALORES DE TEXTO
@@ -31,6 +31,7 @@ print(type(nombre))
 
 
 # ASIGNACION DE VALORES BOOLEANOS
+
 valor = True
 
 valor = False
@@ -53,4 +54,4 @@ resultado = num1+num2
 print('El resultado es:',resultado)
 
 # Asi haces para que te mueste el resultado al lado de un texto.
-# Python permite el tipado dinamico. Una misma variable puede almacenas diferentes tipos de datos a lo largo del programa.
+# Python permite el tipado dinamico. Una misma variable puede almacenar diferentes tipos de datos a lo largo del programa.

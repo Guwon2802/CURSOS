@@ -25,7 +25,7 @@ e = hex(10) # Los primeros dos caracteres te indican que sera un valor hexadecim
 print(f"Tu valor en hexadecimal '{e}'")
 
 
-f = int("0b1010",2) # Asi convertis un valor binario en un valor entero, el segundo parametro(el 2) es para indicar en que base esa el valor.
+f = int("0b1010",2) # Asi convertis un valor binario en un valor entero, el segundo parametro(el 2) es para indicar en que base esta.
 
 print(f"Tu valor binario a entero '{f}'")
 
