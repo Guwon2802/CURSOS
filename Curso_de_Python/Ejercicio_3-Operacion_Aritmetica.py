@@ -1,11 +1,10 @@
 # EJERCICIO 3
 # Hacer un programa para intercambiar el valor de 2 variables.
 
+a = (input("a -> "))
+b = (input("b -> "))
 
-a = 10
-b = 3 # Ahora vale 10
+a , b = b , a
 
-b = a 
-a = b
-
-print(a , b)
+print(f"El nuevo valor de a es: {a}")
+print(f"El nuevo valor de b es: {b}")
