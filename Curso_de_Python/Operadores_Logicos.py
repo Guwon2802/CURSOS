@@ -1,15 +1,12 @@
 '''
 Permite construir expresiones logicas, se obtiene como resultado un valor booleano.
 Para usarlos deben haber dos operaciones relacionales.
-'''
 
-
-''' Operadores Logicos
+Operadores Logicos:
 
 and (Conjuncion)
 or (Disyuncion)
 not (negacion)
-
 '''
 
 # OPERADOR and

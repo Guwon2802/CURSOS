@@ -1,8 +1,9 @@
-# Se utilizan para establecer una relacion entre 2 valores.
-# Compara estos valores entre si y esta comparacion produce un resultado de verdadero o falso.
-# Tienen el mismo nivel de prioridad en su evaluacion. Si hay muchos en una ecuacion, los resuelve de izquierda a derecha.
-# Los operadores relacionales tiene menor prioridad que los aritmeticos.
-
+'''
+Se utilizan para establecer una relacion entre 2 valores.
+Compara estos valores entre si y esta comparacion produce un resultado de verdadero o falso.
+Tienen el mismo nivel de prioridad en su evaluacion. Si hay muchos en una ecuacion, los resuelve de izquierda a derecha.
+Los operadores relacionales tiene menor prioridad que los aritmeticos.
+'''
 
 # MAYOR QUE
 
