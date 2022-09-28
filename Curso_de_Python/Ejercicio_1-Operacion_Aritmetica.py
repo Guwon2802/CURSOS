@@ -1,4 +1,4 @@
-# EJERCICIO 1
+# EJERCICIO 1:
 # Escribir la siguiente expresion en forma de expresion algoritmica.
 
 

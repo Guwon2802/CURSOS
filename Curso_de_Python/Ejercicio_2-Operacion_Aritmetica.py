@@ -1,4 +1,4 @@
-# EJERCICIO 2
+# EJERCICIO 2:
 # Determinar la solucion logica de la siguiente operacion:
 
 a = float(input("a → "))
