@@ -1,4 +1,7 @@
-# CONDICIONALES
+'''
+CONDICIONALES
+Aqui hago un programa que comprueba el numero que colocas y te dice si es positivo, negativo o es cero. 
+'''
 
 numero = int(input("Coloque aqui un numero: "))
 

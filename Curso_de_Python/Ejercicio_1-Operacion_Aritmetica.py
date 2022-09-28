@@ -1,6 +1,7 @@
-# EJERCICIO 1:
-# Escribir la siguiente expresion en forma de expresion algoritmica.
-
+'''
+EJERCICIO 1:
+Escribir la siguiente expresion en forma de expresion algoritmica.
+'''
 
 a = float(input("a → "))
 b = float(input("b → "))

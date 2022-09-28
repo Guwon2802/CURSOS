@@ -1,5 +1,7 @@
-# Sirve aumentarle valor, o quitarselo, a una variable de forma mas corta.
-# Primero se debe crear la variable.
+'''
+Sirve para aumentarle valor, o quitarselo, a una variable de forma mas corta.
+Primero se debe crear la variable.
+'''
 
 a = 0
 
