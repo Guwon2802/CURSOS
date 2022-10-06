@@ -1,4 +1,4 @@
-# Capitulo 2: Condicionales
+#Capitulo 2: Condicionales
 
 '''
 EJERCICIO 4:
@@ -14,7 +14,7 @@ D, d - Division
 num1 = float(input("Coloque un numero: "))
 num2 = float(input("Coloque un numero: "))
 
-operacion = input("Coloque la operacion: ").upper() # ".upper()" transforma todo lo que el usuario coloque, en mayuscula.
+operacion = input("Coloque la operacion: ").upper() #".upper()" transforma en mayuscula, todo lo que el usuario coloque.
 
 if operacion=='S':
     suma = num1+num2

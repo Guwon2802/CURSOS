@@ -1,4 +1,4 @@
-# Sirve para hacer una salda de datos por consola mas facil.
+#Sirve para hacer una salda de datos por consola mas facil.
 
 nombre = "Gabriel"
 edad = 18

@@ -1,4 +1,4 @@
-# Asi se hacen comentarios de una sola linea.
+#Asi se hacen comentarios de una sola linea.
 
 '''
     Asi se hacen 
@@ -6,4 +6,4 @@
     multilineas.
 '''
 
-# Los comentarios no aparecen en el programa.
+#Los comentarios no aparecen en el programa.

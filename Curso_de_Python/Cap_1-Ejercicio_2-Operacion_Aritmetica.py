@@ -1,4 +1,4 @@
-# Capitulo 1: Elementos Basicos
+#Capitulo 1: Elementos Basicos
 
 '''
 EJERCICIO 2:

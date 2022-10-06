@@ -5,38 +5,37 @@ Tienen el mismo nivel de prioridad en su evaluacion. Si hay muchos en una ecuaci
 Los operadores relacionales tiene menor prioridad que los aritmeticos.
 '''
 
-# MAYOR QUE
+#MAYOR QUE
 
 resultado = 3 > 10
 print(resultado)
 
 
-# MENOR QUE
+#MENOR QUE
 
 resultado = 5 > 10
 print(resultado)
 
 
-# MAYOR O IGUAL QUE
+#MAYOR O IGUAL QUE
 
 resultado = 1 >= 3
 print(resultado)
 
 
-# MENOR O IGUAL QUE
+#MENOR O IGUAL QUE
 
 resultado = 2 <= 1
 print(resultado)
 
 
-# DIFERENCIAL
+#DIFERENCIAL
 
 resultado = 6 != 6
 print(resultado)
 
 
-# IGUAL
+#IGUAL
 
 resultado = 8 == 9
 print(resultado)
-

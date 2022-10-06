@@ -1,4 +1,4 @@
-# Capitulo 1: Elementos Basicos
+#Capitulo 1: Elementos Basicos
 
 '''
 EJERCICIO 4:
@@ -13,5 +13,5 @@ area = math.pi * r**2
 
 longitud= 2 * math.pi * r
 
-print(f"El valor del area es: {area:.2f}") # Asi haces que te muestre solamente la cantidad de decimales que queres.
+print(f"El valor del area es: {area:.2f}") #Asi haces que te muestre solamente la cantidad de decimales que queres.
 print(f"El valor de la longitud es: {longitud:.2f}")

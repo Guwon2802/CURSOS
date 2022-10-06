@@ -1,4 +1,4 @@
-# Capitulo 2: Condicionales
+#Capitulo 2: Condicionales
 
 '''
 EJERCICIO 1:
