@@ -25,10 +25,41 @@ print(lista3)
 
 lista4 = [1,2,3,4]
 
-lista4.extend ([5,6,7,8])
+lista4.extend ([5,6,7,8]) #Agrega varios elementos a la lista.
 
 print(lista4)
 
 ############################################################
 
-lista
+lista5 = [9,8,7,6]
+lista6 = [5,4,3,2]
+
+lista7 = lista5+lista6 #Asi sumas listas.
+
+print(lista7)
+
+############################################################
+
+lista8 = [1,2,3,4,5]
+
+print(3 in lista8) #Con el condicional "in" podes comprobar si un elemento esta en una lista. 
+
+############################################################
+
+lista9 = [1,2,3,4,5,6]
+
+print(lista9.index(4)) #Te muestra en que indice esta el elemento.
+
+############################################################
+
+lista10 = (1,2,3,4,1,1,2,3)
+
+print(lista.count(1)) #Te muestra cuantas veces se repite ese elemento en la lista.
+
+############################################################
+
+lista11 = (1,2,3,4,5,"Gabriel")*2 #Asi haces que se copien los elementos de la lista la cantidad de veces que quieras.
+
+print(lista11)
+
+############################################################
