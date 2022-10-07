@@ -31,59 +31,59 @@ print(f"Lista4: {lista4}")
 
 ####################################################################################################################################
 
-lista5 = [9,8,7,6]
-lista6 = [5,4,3,2]
+lista1 = [9,8,7,6]
+lista2 = [5,4,3,2]
 
-lista7 = lista5+lista6 #Asi sumas listas.
+lista5 = lista1+lista2 #Asi sumas listas.
 
-print(f"Lista7: {lista7}")
+print(f"Lista5: {lista5}")
 
 ####################################################################################################################################
 
-lista8 = [1,2,3,4,5]
+lista6 = [1,2,3,4,5]
 
-print(f"Lista8: {3 in lista8}") #Con el condicional "in" podes comprobar si un elemento esta en una lista. 
+print(f"Lista6: {3 in lista6}") #Con el condicional "in" podes comprobar si un elemento esta en una lista. 
+
+####################################################################################################################################
+
+lista7 = [1,2,3,4,5,6]
+
+print(f"Lista7: {lista7.index(4)}") #Te muestra en que indice esta el elemento.
+
+####################################################################################################################################
+
+lista8 = [1,2,3,4,1,1,2,3]
+
+print(f"Lista8: {lista8.count(1)}") #Te muestra cuantas veces se repite ese elemento en la lista.
 
 ####################################################################################################################################
 
 lista9 = [1,2,3,4,5,6]
 
-print(f"Lista9: {lista9.index(4)}") #Te muestra en que indice esta el elemento.
+lista9.pop(3) #Elimina el elemento que este dentro del indice que le indiques. Si lo dejas vacio, elimina el ultimo elemento.
+
+print(f"Lista9: {lista9}")
 
 ####################################################################################################################################
 
-lista10 = [1,2,3,4,1,1,2,3]
+lista10 = [1,2,3,4,5]
 
-print(f"Lista10: {lista10.count(1)}") #Te muestra cuantas veces se repite ese elemento en la lista.
+lista10.remove(2) #Elimina el elemento de la lista que le indiques.
+
+print(f"Lista10: {lista10}")
 
 ####################################################################################################################################
 
-lista11 = [1,2,3,4,5,6]
+lista11 = [1,2,3,4,5,6,7,8,9,"Gabriel"]
 
-lista11.pop(3) #Elimina el elemento que este dentro del indice que le indiques. Si lo dejas vacio, elimina el ultimo elemento.
+lista11.clear() #Elimina todos los elementos de la lista.
 
 print(f"Lista11: {lista11}")
 
 ####################################################################################################################################
 
-lista12 = [1,2,3,4,5]
-
-lista12.remove(2) #Elimina el elemento de la lista que le indiques.
+lista12 = [1,2,3,4,5,"Gabriel"]*2 #Asi haces que se copien los elementos de la lista la cantidad de veces que quieras.
 
 print(f"Lista12: {lista12}")
-
-####################################################################################################################################
-
-lista13 = [1,2,3,4,5,6,7,8,9,"Gabriel"]
-
-lista13.clear() #Elimina todos los elementos de la lista.
-
-print(f"Lista13: {lista13}")
-
-####################################################################################################################################
-
-lista14 = [1,2,3,4,5,"Gabriel"]*2 #Asi haces que se copien los elementos de la lista la cantidad de veces que quieras.
-
-print(f"Lista14: {lista14}")
 
 ####################################################################################################################################
