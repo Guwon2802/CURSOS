@@ -3,9 +3,9 @@ Son grupos de elementos desordenados.
 No pueden haber duplicados.
 '''
 
-conjunto = set() #Asi creas un conjunto vacio, para despues agregarle cosas.
+conjunto = set() #Asi creas un conjunto vacio, para despues agregarle elementos. Si usas llaves, sera un diccionario, no un conjunto.
 
-conjunto = {1,2,3,"Gabriel",4.56} #Asi creas un conjunto donde le colocaras valores.
+conjunto = {1,2,3,"Gabriel",4.56} #Asi creas un conjunto con elementos.
 
 conjunto.add(5)
 conjunto.add("Acuña") #Añadis elementos al conjunto. Los agrega de forma aleatoria.
