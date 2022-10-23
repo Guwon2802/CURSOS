@@ -8,3 +8,11 @@
 * [Salida de Datos](Curso_de_Python/Salida_de_Datos.py)
 * [Entrada de Datos](Curso_de_Python/Entrada_de_Datos.py)
 * [Funciones Integradas](Curso_de_Python/Funciones_Integradas.py)
+* [Cap 1-Ejercicio 1-Operacion Aritmetica](Curso_de_Python/Cap_1-Ejercicio_1-Operacion_Aritmetica.py)
+* [Cap 1-Ejercicio 2-Operacion Aritmetica](Curso_de_Python/Cap_1-Ejercicio_2-Operacion_Aritmetica.py)
+* [Cap 1-Ejercicio 3-Operacion Aritmetica](Curso_de_Python/Cap_1-Ejercicio_3-Operacion_Aritmetica.py)
+* [Cap 1-Ejercicio 4-Operacion Aritmetica](Curso_de_Python/Cap_1-Ejercicio_5-Operacion_Aritmetica.py)
+* [Condicionales](Curso_de_Python/Condicionales.py)
+* [Condicionales Combinados](Curso_de_Python/Condicionales_Combinados.py)
+* [Cap 2-Ejercicio 1-Numeros Pares e Impares](Curso_de_Python/Cap_2-Ejercicio_1-Numeros_Pares_e_Impares.py)
+* []
