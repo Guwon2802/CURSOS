@@ -9,6 +9,8 @@ Escriba un programa que tenga dos listas y que, a continuacion, cree las listas 
 -> Lista de elementos que aparecen en ambas listas.
 '''
 
+#PROGRAMA
+
 lista = [1,2,3,4,"Gabriel","Maria",1,2,3,4,"Gabriel","Maria"]
 lista2 = [3,4,5,6,"Gabriel","Acuña",3,4,5,6,"Gabriel","Acuña",]
 

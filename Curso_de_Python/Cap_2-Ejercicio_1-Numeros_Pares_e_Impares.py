@@ -5,6 +5,8 @@ EJERCICIO 1:
 Hacer un programa que pida 2 numeros y se de cuenta cual de ellos es par, o si ambos lo son.
 '''
 
+#PROGRAMA
+
 num1 = int(input("Coloque el primer numero: "))
 num2 = int(input("Coloque el segundo numero: "))
 

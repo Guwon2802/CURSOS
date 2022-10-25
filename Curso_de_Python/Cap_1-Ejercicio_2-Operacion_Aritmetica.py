@@ -5,6 +5,8 @@ EJERCICIO 2:
 Determinar la solucion logica de la siguiente operacion:
 '''
 
+#PROGRAMA
+
 a = float(input("a → "))
 b = float(input("b → "))
 

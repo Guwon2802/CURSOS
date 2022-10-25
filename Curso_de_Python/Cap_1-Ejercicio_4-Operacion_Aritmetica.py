@@ -5,6 +5,8 @@ EJERCICIO 4:
 Hacer un programa para ingresar el radio de un circulo y se resporte su area y la longitud de la circunferencia.
 '''
 
+#PROGRAMA
+
 import math
 
 r = float(input("Coloque el radio del circulo: "))

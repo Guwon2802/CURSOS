@@ -11,6 +11,8 @@ P, p, M, m - Multiplicacion
 D, d - Division
 '''
 
+#PROGRAMA
+
 num1 = float(input("Coloque un numero: "))
 num2 = float(input("Coloque un numero: "))
 

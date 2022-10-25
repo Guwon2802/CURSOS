@@ -9,6 +9,8 @@ Hacer un programa que simule un cajero automatico con un saldo inicial de $1000 
 4. Salir
 '''
 
+#PROGRAMA
+
 saldo = 1000
 print("/t.:MENU:.") #El "/t" da una tabulacion.
 print("1. Ingresar dinero en la cuenta")
