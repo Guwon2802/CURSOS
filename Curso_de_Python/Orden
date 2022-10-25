@@ -1,21 +1,21 @@
-Hola_mundo
-Asignacion de Valores
-Comentarios
-Operadores Aritmeticos
-Operadores Relacionales
-Operadores Logicos
-Operadores de Asignacion
-Salida de Datos
-Entrada de Datos
-Funciones Integradas
-Cap_1-Ejercicio_1-Operacion_Aritmetica
-Cap_1-Ejercicio_2-Operacion_Aritmetica
-Cap_1-Ejercicio_3-Operacion_Aritmetica
-Cap_1-Ejercicio_4-Operacion_Aritmetica
-Cap_1-Ejercicio_5-Operacion_Aritmetica
-Condicionales
-Condicionales Combinados
-Cap_2-Ejercicio_1-Numeros_Pares_e_Impares
+Hola_mundo.py
+Asignacion_de_Valores.py
+Comentarios.py
+Operadores_Aritmeticos.py
+Operadores_Relacionales.py
+Operadores_Logicos.py
+Operadores_de_Asignacion.py
+Salida_de_Datos.py
+Entrada_de_Datos.py
+Funciones_Integradas.py
+Cap_1-Ejercicio_1-Operacion_Aritmetica.py
+Cap_1-Ejercicio_2-Operacion_con_Tres_Tipos_de_Operadores.py
+Cap_1-Ejercicio_3-Intercambiar_el_Valor_de_Dos_Variables.py
+Cap_1-Ejercicio_4-Area_y_Longitud_de_un_Circulo.py
+Cap_1-Ejercicio_5-Descuento_del_15%_en_una_Tienda.py
+Condicionales.py
+Condicionales_Combinados.py
+Cap_2-Ejercicio_1-Numeros_Pares_e_Impares.py
 Cap_2-Ejercicio_2-El_Mayor_de_Tres_Numeros.py
 Cap_2-Ejercicio_3-Comprobar_Vocales.py
 Cap_2-Ejercicio_4-Calculadora_Aritmetica.py
@@ -37,3 +37,4 @@ Bucle_For.py
 Bucle_For_Tipo_Rango.py
 Instruccion_Continue_y_Break.py
 Cap_4-Ejercicio_1-Llenar_una_Lista.py
+Cap_4-Ejercicio_2-Modificar_los_Elementos_de_una_Lista.py
