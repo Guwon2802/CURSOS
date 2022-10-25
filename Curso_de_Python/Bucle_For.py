@@ -42,10 +42,10 @@ for clave,valor in diccionario.items(): #Muestra las claves y valores, de una fo
 cadena = "Gabriel" #Se pueden usar cadenas.
 
 for i in cadena:
-    print(f"Hola") #Imprime igual a la cantidad de caracteres de la cadena.´
+    print(f"Hola") #Imprime igual a la cantidad de caracteres de la cadena.
 
 for i in cadena:
-    print(f"{i}") #Imprime la cadena, caracter por caracter.
+    print(f"{i}") #Imprime la cadena caracter por caracter.
 
 for i in cadena:
     print(f"{i}",end=" ") #Imprime caracter por caracter, en la misma linea y dejando un espacio.

@@ -1,4 +1,4 @@
-Hola mundo
+Hola_mundo
 Asignacion de Valores
 Comentarios
 Operadores Aritmeticos
@@ -16,21 +16,23 @@ Cap_1-Ejercicio_5-Operacion_Aritmetica
 Condicionales
 Condicionales Combinados
 Cap_2-Ejercicio_1-Numeros_Pares_e_Impares
-Cap_2-Ejercicio_2-El_Mayor_de_Tres_Numeros
-Cap_2-Ejercicio_3-Comprobar_Vocales
-Cap_2-Ejercicio_4-Calculadora_Aritmetica
-Cap_2-Ejercicio_5-Cajero_Automatico
-Listas_Parte_1
-Listas_Parte_2
-Tuplas
-Conjuntos_Parte_1
-Conjuntos_Parte_2
-Diccionarios_Parte_1
-Diccionarios_Parte_2
-Pilas
-Colas
-Cap_3-Ejercicio_1-Eliminar_Elementos_Duplicados_de_una_Lista
-Cap_3-Ejercicio_2-Operaciones_de_Conjuntos_con_Listas
-Cap_3-Ejercicio_3-Agregar_Personajes_a_una_Lista
-Bucle_While
-Bucle_For
+Cap_2-Ejercicio_2-El_Mayor_de_Tres_Numeros.py
+Cap_2-Ejercicio_3-Comprobar_Vocales.py
+Cap_2-Ejercicio_4-Calculadora_Aritmetica.py
+Cap_2-Ejercicio_5-Cajero_Automatico.py
+Listas_Parte_1.py
+Listas_Parte_2.py
+Tuplas.py
+Conjuntos_Parte_1.py
+Conjuntos_Parte_2.py
+Diccionarios_Parte_1.py
+Diccionarios_Parte_2.py
+Pilas.py
+Colas.py
+Cap_3-Ejercicio_1-Eliminar_Elementos_Duplicados_de_una_Lista.py
+Cap_3-Ejercicio_2-Operaciones_de_Conjuntos_con_Listas.py
+Cap_3-Ejercicio_3-Agregar_Personajes_a_una_Lista.py
+Bucle_While.py
+Bucle_For.py
+Bucle_For_Tipo_Rango.py
+Instruccion_Continue_y_Break.py

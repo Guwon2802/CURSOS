@@ -23,4 +23,4 @@ i = 0
 #El bucle se repetira mientras el valor de "i" sea menor a 10.
 while i<10:
     print("Hola mundo")
-    i += 1 #Le sumamos 1 asi no se hace infinito.
+    i += 1 #Le sumamos 1 a cada repeticion asi no se hace infinito.
