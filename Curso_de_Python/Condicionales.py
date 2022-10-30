@@ -7,7 +7,7 @@ numero = int(input("Coloque aqui un numero: "))
 
 if numero>0: #Significa "SI"
     print('"El numero es positivo"')
-elif numero==0: #Significa "El caso contrario si"
+elif numero==0: #Significa "Caso contrario"
     print('"El numero es cero"')
 else: #Significa "SINO"
     print('"El numero es negativo"')

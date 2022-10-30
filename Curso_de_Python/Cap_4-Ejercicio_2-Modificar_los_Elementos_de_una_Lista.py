@@ -30,18 +30,18 @@ print()
 
 #PROGRAMA 2
 
-# lista = list(range(1,11))
-# print("Lista original: ")
-# for i in lista:
-#     print(i,end="-")
+lista = list(range(1,11))
+print("Lista original: ")
+for i in lista:
+    print(i,end="-")
 
-# valor = int(input("\nValor a multiplicar: "))
+valor = int(input("\nValor a multiplicar: "))
 
-# #Multiplicar todos los elementos de la lista.
-# for indice,i in enumerate(lista): #Hace lo mismo que el primer programa, pero sin crear el indice y sin estar sumandole valores.
-#     lista[indice] *= valor
+#Multiplicar todos los elementos de la lista.
+for indice,i in enumerate(lista): #Hace lo mismo que el primer programa, pero sin crear el indice y sin estar sumandole valores.
+    lista[indice] *= valor
 
 
-# print(f"\nLista final con los elementos multiplicados por {valor}")
-# for i in lista:
-#     print(i,end="-")
+print(f"\nLista final con los elementos multiplicados por {valor}")
+for i in lista:
+    print(i,end="-")
