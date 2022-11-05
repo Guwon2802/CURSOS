@@ -32,3 +32,11 @@ cadena1 = "Hola"
 cadena2 = " Mundo"
 
 print(cadena1 + cadena2) #Unir cadenas.
+
+#Se puede usar la busqueda por indices.
+#Las cadenas de caracteres son inmutables.
+
+cadena = "Gabriel"
+
+cadena = "g" + cadena[1:] #Modificar una cadena indirectamente.
+print(cadena)
