@@ -54,4 +54,4 @@
 * [Cap 5-Ejercicio 2-Frase Terminada en Punto.py](Curso_de_Python/cap_5-ejercicio_2-frase_terminada_en_punto.py)
 * [Cap 5-Ejercicio 3-Palabra o Frase Palindroma.py](Curso_de_Python/cap_5-ejercicio_3-palabra_o_frase_palindroma.py)
 * [Cap 5-Ejercicio 4-Titulo con Asteriscos.py](Curso_de_Python/cap_5-ejercicio_4-titulo_con_asteriscos.py)
-* [Cap 5-Ejercicio 5-Contar Vocales(cada una)en una Cadena.py](Curso_de_Python/cap_5-ejercicio_5-contar_vocales_(cada una)_en_una_cadena.py)
+* [Cap 5-Ejercicio 5-Contar Vocales(cada una)en una Cadena.py](Curso_de_Python/cap_5-ejercicio_5-contar_todas_las_vocales_en_una_cadena.py)
