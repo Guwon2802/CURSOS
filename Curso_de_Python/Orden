@@ -1,6 +1,6 @@
 hola_mundo.py
 asignacion_de_valores.py
-vomentarios.py
+comentarios.py
 operadores_aritmeticos.py
 operadores_relacionales.py
 operadores_logicos.py
@@ -34,12 +34,12 @@ cap_3-ejercicio_2-operaciones_de_conjuntos_con_listas.py
 cap_3-ejercicio_3-agregar_personajes_a_una_lista.py
 bucle_while.py
 bucle_for.py
-bucle_for_tipo_rango.py
+bucle_for_tipo_range.py
 instruccion_continue_y_break.py
 cap_4-ejercicio_1-llenar_una_lista.py
 cap_4-ejercicio_2-modificar_los_elementos_de_una_lista.py
 cap_4-ejercicio_3-insertar_elementos_y_ordenarlos.py
-cap_4-ejercicio_4-sumar_numero_pares_dentro_de_un_rango.py
+cap_4-ejercicio_4-sumar_numeros_pares_dentro_de_un_rango.py
 cap_4-ejercicio_5-factorial_de_un_numero_positivo.py
 cap_4-ejercicio_6-tabla_de_multiplicar.py
 cap_4-ejercicio_7-juego_adivina_el_numero.py
