@@ -55,3 +55,7 @@ cap_5-ejercicio_2-frase_terminada_en_punto.py
 cap_5-ejercicio_3-palabra_o_frase_palindroma.py
 cap_5-ejercicio_4-titulo_con_asteriscos.py
 cap_5-ejercicio_5-contar_todas_las_vocales_en_una_cadena.py
+funciones_sin_retorno_de_valor.py
+funciones_con_retorno_de_valor.py
+argumentos_y_parametros.py
+argumentos_por_valor_o_por_referencia.py
