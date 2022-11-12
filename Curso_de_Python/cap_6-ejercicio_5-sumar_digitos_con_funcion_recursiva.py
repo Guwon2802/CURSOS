@@ -10,9 +10,9 @@ Salida = 6
 '''
 
 def sumarDigitos(num):
-    if num==0:
+    if num==0: #Caso base
         resultado = 0
-    else:
+    else: #Caso recursivo
         resultado = sumarDigitos(int(num/10)) + (num%10)
 
     return resultado

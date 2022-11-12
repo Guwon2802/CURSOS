@@ -65,3 +65,7 @@ cap_6-ejercicio_3-menu_para_un_cliente.py
 funciones_recursivas.py
 cap_6-ejercicio_4-factorial_de_un_numero_con_funcion_recursiva.py
 cap_6-ejercicio_5-sumar_digitos_con_funcion_recursiva.py
+errores.py
+excepciones.py
+ejemplos_con_multiples_excepciones.py
+lanzar_nuestras_propias_excepciones.py
