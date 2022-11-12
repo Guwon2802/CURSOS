@@ -62,3 +62,6 @@ argumentos_por_valor_o_por_referencia.py
 cap_6-ejercicio_1-cambio_de_divisas.py
 cap_6-ejercicio_2-dibujar_un_rectangulo.py
 cap_6-ejercicio_3-menu_para_un_cliente.py
+funciones_recursivas.py
+cap_6-ejercicio_4-factorial_de_un_numero_con_funcion_recursiva.py
+cap_6-ejercicio_5-sumar_digitos_con_funcion_recursiva.py
