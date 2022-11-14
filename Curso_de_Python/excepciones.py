@@ -58,7 +58,7 @@ while True:
     except:
         print("Ha ocurrido un error")
 
-    else: #El "caso contrario" del except. Si el "except" se ejecuta, el "else" no y viceversa.
+    else:
         print("Programa finalizado correctamente")
         break
 
