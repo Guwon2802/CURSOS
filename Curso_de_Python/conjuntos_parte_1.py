@@ -2,41 +2,32 @@
 Son grupos de elementos desordenados.
 No pueden haber duplicados.
 '''
+#Asi creas un conjunto vacio. Si usas llaves, sera un diccionario, no un conjunto.
+conjunto = set() 
+#Asi creas un conjunto con elementos.
+conjunto = {1,2,3,"Gabriel",4.56} 
 
-conjunto = set() #Asi creas un conjunto vacio, para despues agregarle elementos. Si usas llaves, sera un diccionario, no un conjunto.
 
-conjunto = {1,2,3,"Gabriel",4.56} #Asi creas un conjunto con elementos.
-
+#Añadis elementos al conjunto. Los agrega de forma aleatoria.
 conjunto.add(5)
-conjunto.add("Acuña") #Añadis elementos al conjunto. Los agrega de forma aleatoria.
+conjunto.add("Acuña") 
 conjunto.add(3.78)
+print(f"Elementos añadidos: {conjunto}")
 
-print(f"CONJUNTO: {conjunto}")
 
-############################################################################################################
+#Elimina un valor.
+conjunto.discard(3) 
+print(f"Valor eliminado: {conjunto}")
 
-conjunto2 = {1,2,3,"Gabriel",4.56}
 
-conjunto2.discard(3) #Elimina un valor.
+#Elimina todos lo elementos.
+conjunto.clear() 
+print(f"Eementos eliminados: {conjunto}")
 
-print(f"CONJUNTO2: {conjunto2}")
 
-############################################################################################################
+#Saber si un elemento esta.
+print(f"CONJUNTO4: {3 in conjunto}") 
 
-conjunto3 = {1,2,3,"Gabriel",4.56}
 
-conjunto3.clear() #Elimina todos lo elementos.
-
-print(f"CONJUNTO3: {conjunto3}")
-
-############################################################################################################
-
-conjunto4 = {1,2,3,"Gabriel",4.56}
-
-print(f"CONJUNTO4: {3 in conjunto4}") #Para saber si un elemento esta en el conjunto.
-
-############################################################################################################
-
-conjunto5= {1,2,3,"Gabriel",4.56}
-
-print(f"CONJUNTO5: {4 not in conjunto5}") #Para saber si un valor no esta en el conjunto.
+#Saber si un valor no esta.
+print(f"CONJUNTO5: {4 not in conjunto}") 

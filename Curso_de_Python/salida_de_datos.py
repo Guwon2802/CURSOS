@@ -1,13 +1,16 @@
-#Sirve para hacer una salda de datos por consola mas facil.
+'''
+Formas de hacer la salida de datos por consola facil.
+'''
 
 nombre = "Gabriel"
 edad = 18
 
-print("Mi nombre es {} y tengo {} años".format(nombre, edad)) # A "format" le agregas los valores con los que tendria que llenar los corchetes, obvio en orden.
-
+# A "format" le agregas los valores con los que llenara los corchetes, obvio en orden.
+print("Mi nombre es {} y tengo {} años".format(nombre, edad)) 
 
 
 nombre = "Ezequiel"
 edad = 18
 
-print(f"Hola soy {nombre} y tengo {edad} años") # Esta es otra forma todavia mas facil.
+# Esta es otra forma todavia mas facil.
+print(f"Hola soy {nombre} y tengo {edad} años") 

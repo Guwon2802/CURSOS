@@ -1,7 +1,6 @@
 '''
-Se utilizan para establecer una relacion entre 2 valores.
-Compara estos valores entre si y esta comparacion produce un resultado de verdadero o falso.
-Tienen el mismo nivel de prioridad en su evaluacion. Si hay muchos en una ecuacion, los resuelve de izquierda a derecha.
+Compara 2 valores entre si y produce un resultado de True o False.
+Tienen el mismo nivel de prioridad. Si hay muchos en una ecuacion, los resuelve de izquierda a derecha.
 Los operadores relacionales tiene menor prioridad que los aritmeticos.
 '''
 
@@ -35,7 +34,7 @@ resultado = 6 != 6
 print(resultado)
 
 
-#IGUAL
+#IGUALDAD
 
 resultado = 8 == 9
 print(resultado)

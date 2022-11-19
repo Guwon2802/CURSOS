@@ -3,6 +3,7 @@
 '''
 EJERCICIO 2:
 Determinar la solucion logica de la siguiente operacion:
+    ((3+5x8)<3 and ((-6/3x4)+2<2) or (a>b))
 '''
 
 #PROGRAMA

@@ -1,113 +1,90 @@
-# Segunda parte de las listas.
+'''
+Segunda parte de las listas.
+'''
 
-lista = ["Lunes","Martes","Miercoles","Jueves","Viernes",34,1.34,[1,2,3],True]
+lista = [1,2,3,4,5,6,7,34,1.34]
 
-print(f"LISTA: {len(lista)}") #Te imprime la cantidad de elementos que hay en la lista.
+#Imprime la cantidad de elementos que hay.
+print(f"Cantidad de elementos: {len(lista)}")
 
-####################################################################################################################################
+print()
 
-lista2 = [1,2,3,4,5]
+#Agrega aun elemento al final.
+lista.append(6) 
+print(f"Elemento agregado al final: {lista}")
 
-lista2.append(6) #Agrega aun elemento a tu lista, lo agrega al final.
+print()
 
-print(f"LISTA2: {lista2}")
+#Agrega un elemento en la posicion que vos le indiques. Primer parametro, donde lo queres agregar. Segundo parametro, el valor a agregar.
+lista.insert(2,3) 
+print(f"Elemento agregado en la posicion deseada: {lista}")
 
-####################################################################################################################################
+print()
 
-lista3 = [1,2,4,5,6,7]
+#Agrega varios elementos.
+lista.extend ([5,6,7,8]) 
+print(f"Elementos varios agregados: {lista}")
 
-lista3.insert(2,3) #Agrega un elemento a tu lista en la posicion que vos le indiques.
-                   #El primer parametro es en el indice donde lo queres agregar. El segundo es el valor que queres agregar.
+print()
 
-print(f"LISTA3{lista3}")
-
-####################################################################################################################################
-
-lista4 = [1,2,3,4]
-
-lista4.extend ([5,6,7,8]) #Agrega varios elementos a la lista.
-
-print(f"LISTA4: {lista4}")
-
-####################################################################################################################################
-
-lista1 = [9,8,7,6]
+#Sumas de listas.
 lista2 = [5,4,3,2]
 
-lista5 = lista1+lista2 #Asi sumas listas.
+lista3 = lista+lista2 
+print(f"Suma de listas: {lista3}")
 
-print(f"LISTA5: {lista5}")
+print()
 
-####################################################################################################################################
+#Con el condicional "in" podes comprobar si un elemento esta en una lista. 
+print(f"Comprobacion: {3 in lista}")
 
-lista6 = [1,2,3,4,5]
+print()
 
-print(f"LISTA6: {3 in lista6}") #Con el condicional "in" podes comprobar si un elemento esta en una lista. 
+#Te muestra en que indice esta el elemento.
+print(f"Indice en el que esta: {lista.index(34)}") 
 
-####################################################################################################################################
+print()
 
-lista7 = [1,2,3,4,5,6]
+#Te muestra cuantas veces se repite ese elemento en la lista.
+print(f"Repeticion del elemento: {lista.count(1)}")
 
-print(f"LISTA7: {lista7.index(4)}") #Te muestra en que indice esta el elemento.
+print()
 
-####################################################################################################################################
+#Elimina el elemento que este dentro del indice que le indiques. Si lo dejas vacio, elimina el ultimo elemento.
+lista.pop(3)
+print(f"Eliminacion dentro del indice: {lista}")
 
-lista8 = [1,2,3,4,1,1,2,3]
+print()
 
-print(f"LISTA8: {lista8.count(1)}") #Te muestra cuantas veces se repite ese elemento en la lista.
+#Elimina el elemento que le indiques.
+lista.remove(1.34)
+print(f"Eliminacion indicada: {lista}")
 
-####################################################################################################################################
+print()
 
-lista9 = [1,2,3,4,5,6]
+#Invierte la lista.
+lista.reverse()
+print(f"Lista invertida: {lista}")
 
-lista9.pop(3) #Elimina el elemento que este dentro del indice que le indiques. Si lo dejas vacio, elimina el ultimo elemento.
+print()
 
-print(f"LISTA9: {lista9}")
+#La ordena de forma ascendente.
+lista.sort()
+print(f"Ordenada ascendentemente: {lista}")
 
-####################################################################################################################################
+print()
 
-lista10 = [1,2,3,4,5]
+#La ordena de forma descendente
+lista.sort(reverse=True)
+print(f"Ordenada descendentemente: {lista}")
 
-lista10.remove(2) #Elimina el elemento de la lista que le indiques.
+print()
 
-print(f"LISTA10: {lista10}")
+#Copia los elementos la cantidad indicada.
+print(f"Elementos copiados: {lista*2}")
 
-####################################################################################################################################
+print()
 
-lista11 = [1,2,3,4,5,6,7,8,9,"Gabriel"]
-
-lista11.clear() #Elimina todos los elementos de la lista.
-
-print(f"LISTA11: {lista11}")
-
-####################################################################################################################################
-
-lista12 = [1,3,4,5,6,"Gabriel"]
-
-lista12.reverse() #Invierte la lista
-
-print(f"LISTA12: {lista12}")
-
-####################################################################################################################################
-
-lista13 = [2,6,7,4,-6,-1,8]
-
-lista13.sort() #La ordena de forma ascendente
-
-print(f"LISTA13: {lista13}")
-
-####################################################################################################################################
-
-lista14 = [2,6,7,4,-6,-1,8]
-
-lista14.sort(reverse=True) #La ordena de forma descendente
-
-print(f"LISTA14: {lista14}")
-
-####################################################################################################################################
-
-lista15 = [1,2,3,4,5,"Gabriel"]*2 #Asi haces que se copien los elementos de la lista la cantidad de veces que quieras.
-
-print(f"LISTA15: {lista15}")
-
-####################################################################################################################################
+#Elimina todos los elementos.
+lista.clear()
+print(f"Eliminacion completa: {lista}")
