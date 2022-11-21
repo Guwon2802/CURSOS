@@ -1,6 +1,6 @@
 '''
 En python se puede simular las pilas usando las listas.
-En las pilas, se agregan elementos por el final. Y se sacan tambien por el final.
+En las pilas, se agregan elementos por el final y se sacan tambien por el final.
 '''
 
 pila = [1,2,3]
