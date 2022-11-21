@@ -7,19 +7,25 @@ Puedes colocarles dentro otras tipos de colecciones.
 
 diccionario = {"azul":"blue","rojo":"red","verde":"green"}
 
-diccionario["amarillo"] = "yellow" #Agregas una clave, con su valor, al diccionario.
-diccionario["azul"] = "BLUE" #Tambien se puede modificar.
+#Agregar una clave, con su valor, al diccionario.
+diccionario["amarillo"] = "yellow"
 
-del(diccionario["rojo"]) #Eliminar una clave, con su valor.
+#Modificar un valor de una clave.
+diccionario["azul"] = "BLUE" 
 
-print(diccionario) #Imprimes todo el diccionario.
+#Eliminar una clave, con su valor.
+del(diccionario["rojo"]) 
 
-print(diccionario["azul"]) #Imprimes el valor de una clave.
+#Imprimir todo el diccionario.
+print(diccionario) 
 
+#Imprimes el valor de una clave.
+print(diccionario["azul"]) 
 
-diccionario = {"Gabriel":(18,1.64),"Jose":(17,1.70),"Maria":(20,1.67)} #Se pueden usar listas como valor.
+#Se pueden usar listas como valor.
+diccionario = {"Gabriel":(18,1.64),"Jose":(17,1.70),"Maria":(20,1.67)} 
 print(diccionario)
 
-
-diccionario = {"Gabriel":{"Edad":18,"Estatura":1.64},"Jose":{"Edad":17,"Estatura":1.70},"Maria":{"Edad":20,"Estatura":1.67}} #Se pueden usar diccionarios, dentro de un diccionario.
+#Se pueden usar diccionarios, dentro de un diccionario.
+diccionario = {"Gabriel":{"Edad":18,"Estatura":1.64},"Jose":{"Edad":17,"Estatura":1.70},"Maria":{"Edad":20,"Estatura":1.67}} 
 print(diccionario["Gabriel"])
