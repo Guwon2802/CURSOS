@@ -1,51 +1,87 @@
 '''
 Es un bucle con un numero determinado de interacciones.
 '''
+print()
 
-for i in [10,6,2,22,"Gabriel"]: #Las veces que se repetira el bucle son iguales a la cantidad de elementos de la coleccion.
+#Las repeticiones son iguales a la cantidad de elementos que tenga.
+for i in [10,6,2,22,"Gabriel"]: 
     print("Hola mundo")
 
-for i in [10,6,2,22,"Gabriel"]: #Aqui una demostracion de como funciona el bucle for.
+print()
+
+#Demostracion de como funciona el bucle for.
+for i in [10,6,2,22,"Gabriel"]: 
     print(f"Elemento: {i}")
 
+print()
 
-lista = [10,2,5,7,"Acuña"] #Se pueden usar listas.
-tupla = (15,32,67,82,"Ezequil") #Se pueden usar tuplas.
-conjunto = {1,2,3,4,5} #Se pueden usar conjuntos.
+#Se pueden usar listas.
+lista = [10,2,5,7,"Acuña"] 
+#Se pueden usar tuplas.
+tupla = (15,32,67,82,"Ezequil") 
+#Se pueden usar conjuntos.
+conjunto = {1,2,3,4,5} 
 
-for i in lista: #Se puede usar una variable que contenga la coleccion.
+#Se puede usar una variable que contenga la coleccion.
+for i in lista: 
     print(f"Lista: {i}")
+
+print()
 
 for i in tupla:
     print(f"Tupla: {i}")
 
+print()
+
 for i in conjunto:
     print(f"Conjunto: {i}")
 
+print()
 
-
-diccionario = {"Gabriel":18,"Maria":22,"Jose":19,"Jorge":24} #Se pueden usar diccionarios.
-
-for i in diccionario:
-    print(f"Diccionario: {i}") #Imprime las claves.
+#Se pueden usar diccionarios.
+diccionario = {"Gabriel":18,"Maria":22,"Jose":19,"Jorge":24} 
 
 for i in diccionario:
-    print(f"Diccionario: {diccionario[i]}") #Imprime los valores.
+    #Imprime las claves.
+    print(f"Diccionario: {i}") 
+
+print()
 
 for i in diccionario:
-    print(f"{i} -> {diccionario[i]}") #Muestra las claves y valores.
+    #Imprime los valores.
+    print(f"Diccionario: {diccionario[i]}") 
 
-for clave,valor in diccionario.items(): #Muestra las claves y valores, de una forma mas sencilla.
+print()
+
+for i in diccionario:
+    #Muestra las claves y valores.
+    print(f"{i} -> {diccionario[i]}") 
+
+print()
+
+#Muestra las claves y valores, de una forma mas sencilla.
+for clave,valor in diccionario.items(): 
     print(f"{clave} -> {valor}")
 
+print()
 
-cadena = "Gabriel" #Se pueden usar cadenas.
-
-for i in cadena:
-    print(f"Hola") #Imprime igual a la cantidad de caracteres de la cadena.
-
-for i in cadena:
-    print(f"{i}") #Imprime la cadena caracter por caracter.
+#Se pueden usar cadenas.
+cadena = "Gabriel" 
 
 for i in cadena:
-    print(f"{i}",end=" ") #Imprime caracter por caracter, en la misma linea y dejando un espacio.
+    #Imprime igual a la cantidad de caracteres de la cadena.
+    print(f"Hola") 
+
+print()
+
+for i in cadena:
+    #Imprime la cadena caracter por caracter.
+    print(f"{i}") 
+
+print()
+
+for i in cadena:
+    #Imprime caracter por caracter, en la misma linea y dejando un espacio.
+    print(f"{i}",end=" ") 
+
+print()
