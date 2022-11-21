@@ -1,4 +1,6 @@
-#ASIGNACION DE VALORES NUMERICOS
+'''
+ASIGNACION DE VALORES NUMERICOS
+'''
 
 #Una variable almacena un dato.
 numero = 10
@@ -14,7 +16,9 @@ print(numero)
 print(type(numero))
 
 
-#ASIGNACION DE VALORES DE TEXTO
+'''
+ASIGNACION DE VALORES DE TEXTO
+'''
 
 #Se pueden usar comillas dobles o comillas simples. 
 nombre = "Gabriel"
@@ -29,14 +33,18 @@ print(nombre)
 print(type(nombre))
 
 
-#ASIGNACION DE VALORES BOOLEANOS
+'''
+ASIGNACION DE VALORES BOOLEANOS
+'''
 
 valor = True
 
 valor = False
 
 
-#OPERACIONES
+'''
+OPERACIONES
+'''
 
 #Se pueden hacer sumas, restas, y etc. Nivel de importancia a tener en cuenta.
 num1 = 5
