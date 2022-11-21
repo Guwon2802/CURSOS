@@ -22,7 +22,9 @@ while i<=50:
 for i in lista:
     print(i,end="-")
 
-print() #Salto de linea
+
+#Salto de linea
+print() 
 
 
 #PROGRAMA 2

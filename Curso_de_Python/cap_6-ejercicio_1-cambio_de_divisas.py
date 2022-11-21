@@ -5,10 +5,12 @@ Ejercicio 1:
 Desarrollar un programa que pueda calcular el valor del tipo de cambio de moneda (de tu moneda - hacia dolar y viceversa).
 '''
 
-def cambio_Pesos_Dolares(pesos): #Funcion que cambia pesos a dolares.
+#Funcion que cambia pesos a dolares.
+def cambio_Pesos_Dolares(pesos): 
     return pesos/166.84
 
-def cambio_Dolares_Pesos(dolares): #Funcion que cambiar dolares a pesos.
+#Funcion que cambiar dolares a pesos.
+def cambio_Dolares_Pesos(dolares): 
     return dolares*166.84
 
 while True:

@@ -38,7 +38,8 @@ def eliminar_cliente(clientes,dni):
             return True
     return False
 
-clientes = [] #Creamos una lista.
+#Creamos una lista.
+clientes = [] 
 
 while True:
     print("""\t.:MENU:.

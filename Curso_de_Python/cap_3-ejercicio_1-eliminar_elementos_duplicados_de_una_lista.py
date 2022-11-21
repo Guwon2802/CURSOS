@@ -16,7 +16,7 @@ lista = list(conjunto)
 print(lista)
 
 
-#Segundo programa
+#Mismo programa pero acortado
 
 lista = [1,2,1,2,3,4,3,4,6,5,7,6,7,8,5,4,3,2,6,7,8,"Gabriel","Gabriel"]
 

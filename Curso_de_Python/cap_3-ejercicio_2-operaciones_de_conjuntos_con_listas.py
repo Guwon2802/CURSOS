@@ -15,7 +15,6 @@ lista = [1,2,3,4,"Gabriel","Maria",1,2,3,4,"Gabriel","Maria"]
 lista2 = [3,4,5,6,"Gabriel","Acuña",3,4,5,6,"Gabriel","Acuña",]
 
 #Elimine los elementos repetidos de las listas
-
 a = set(lista)
 b = set(lista2)
 

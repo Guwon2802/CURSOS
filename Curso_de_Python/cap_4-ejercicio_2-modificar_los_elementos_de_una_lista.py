@@ -38,7 +38,9 @@ for i in lista:
 valor = int(input("\nValor a multiplicar: "))
 
 #Multiplicar todos los elementos de la lista.
-for indice,i in enumerate(lista): #Hace lo mismo que el primer programa, pero sin crear el indice y sin estar sumandole valores.
+
+#Hace lo mismo que el primer programa, pero sin crear el indice y sin estar sumandole valores.
+for indice,i in enumerate(lista): 
     lista[indice] *= valor
 
 
