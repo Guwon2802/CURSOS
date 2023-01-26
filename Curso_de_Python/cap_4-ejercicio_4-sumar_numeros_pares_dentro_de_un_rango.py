@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 4:
-Hacer un programa para sumar numeros pares dentro de un rango.
+Hacer un programa para sumar numeros pares dentro de un rango
 Ejemplo:
     Suma de numeros pares del 2 al 30
     suma = 240

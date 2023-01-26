@@ -3,10 +3,10 @@
 '''
 EJERCICIO 2:
 Escriba un programa que tenga dos listas y que, a continuacion, cree las listas (en las que no debe haber repeticiones):
--> Lista de elementos que aparecen en las dos listas.
--> Lista de elementos que aparecen en la primera lista, pero no en la segunda.
--> Lista de elementos que aparecen en la segunda lista, pero no en la primera.
--> Lista de elementos que aparecen en ambas listas.
+-> Lista de elementos que aparecen en las dos listas
+-> Lista de elementos que aparecen en la primera lista, pero no en la segunda
+-> Lista de elementos que aparecen en la segunda lista, pero no en la primera
+-> Lista de elementos que aparecen en ambas listas
 '''
 
 #PROGRAMA

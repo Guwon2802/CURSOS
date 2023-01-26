@@ -1,7 +1,7 @@
 #Argumentos por valor
 '''
-Las funciones toman una copia de las variables que no sean una coleccion.
-Fuera de la funcion, la variable sigue conservando su valor.
+Las funciones toman una copia de las variables que no sean una coleccion
+Fuera de la funcion, la variable sigue conservando su valor
 '''
 def doblar_valor(numero):
     numero *= 2
@@ -31,7 +31,7 @@ print()
 
 #Argumentos por referencia
 '''
-Los cambios que se hagan en la funcion, afectan las colecciones.
+Los cambios que se hagan en la funcion, afectan las colecciones
 '''
 def doblar_valores(numeros):
     for i,n in enumerate(numeros):
@@ -52,6 +52,6 @@ def doblar_valores(numeros):
         numeros[i] *= 2
 
 n = [5,10,15,20]
-doblar_valores(n[:]) #Le pones dos puntos, entre cochetes.
+doblar_valores(n[:]) #Le pones dos puntos, entre cochetes
 
 print(n)

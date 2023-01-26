@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 1:
-Escriba un programa donde tenga una lista y que, a continuacion, elimine los elementos repetidos, por ultimo mostrar la lista.
+Escriba un programa donde tenga una lista y que, a continuacion, elimine los elementos repetidos, por ultimo mostrar la lista
 '''
 
 #Primer programa

@@ -2,8 +2,8 @@
 
 '''
 Ejercicio 1:
-Hacer un programa donde se debera imprimir por la consola la palabra con mas caracteres de dos palabras dadas. 
-En el caso de que ambas palabras tengan la misma cantidad de caracteres, deberas mostrar el mensaje "Son iguales".
+Hacer un programa donde se debera imprimir por la consola la palabra con mas caracteres de dos palabras dadas
+En el caso de que ambas palabras tengan la misma cantidad de caracteres, deberas mostrar el mensaje "Son iguales"
 '''
 
 #PROGRAMA

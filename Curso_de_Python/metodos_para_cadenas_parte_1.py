@@ -19,5 +19,5 @@ print(cadena.isalpha()) #Si solo hay caracteres alfabeticos.
 print(cadena.isalnum()) #Si solo hay caracteres alfanumericos.
 print(cadena.islower()) #Si todo esta en minuscula.
 print(cadena.isupper()) #Si todo esta en mayuscula.
-print(cadena.istitle()) #Si la primera letra de cada palabra esta en mayuscula
+print(cadena.istitle()) #Si la primera letra de cada palabra esta en mayuscula.
 print(cadena.isspace()) #Si toda la cadena son espacios.

@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 1:
-Escribir la siguiente expresion en forma de expresion algoritmica.
+Escribir la siguiente expresion en forma de expresion algoritmica
 '''
 
 #PROGRAMA

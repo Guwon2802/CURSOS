@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 3:
-Escriba un programa donde cree una lista con los siguientes personajes del Señor de los anillos.
+Escriba un programa donde cree una lista con los siguientes personajes del Señor de los anillos
 - Nombre: Aragon - Clase: Guerrero - Raza: Dunadan del Norte
 - Nombre: Gandalf - Clase Mago - Raza: Istar
 - Nombre: Legolas - Clase: Arquero - Raza: Elfo Sindar 

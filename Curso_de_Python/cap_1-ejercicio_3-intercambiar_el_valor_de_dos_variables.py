@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 3:
-Hacer un programa para intercambiar el valor de 2 variables.
+Hacer un programa para intercambiar el valor de 2 variables
 Por ejemplo:
     a = 10      a = 5
             ->

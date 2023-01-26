@@ -2,8 +2,8 @@
 
 '''
 EJERCICIO 4:
-Construir un programa que simule el funcionamiento de una calculadora que puede realizar las cuatro operaciones aritmeticas basicas (suma, resta, multiplicacion y devision). 
-El usuario debe especificar la operacion con el primer caracter del nombre de la operacion.
+Construir un programa que simule el funcionamiento de una calculadora que puede realizar las cuatro operaciones aritmeticas basicas (suma, resta, multiplicacion y devision)
+El usuario debe especificar la operacion con el primer caracter del nombre de la operacion
 
 S, s - Suma
 R, r - Resta
@@ -16,7 +16,7 @@ D, d - Division
 num1 = float(input("Coloque un numero: "))
 num2 = float(input("Coloque un numero: "))
 
-operacion = input("Coloque la operacion: ").upper() #".upper()" transforma en mayuscula, todo lo que el usuario coloque.
+operacion = input("Coloque la operacion: ").upper() #".upper()" transforma en mayuscula, todo lo que el usuario coloque
 
 if operacion=='S':
     suma = num1+num2

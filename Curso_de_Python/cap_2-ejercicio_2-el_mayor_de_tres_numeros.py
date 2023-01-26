@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 2:
-Hacer un programa que pida 3 numeros y determine cual es el mayor.
+Hacer un programa que pida 3 numeros y determine cual es el mayor
 '''
 
 #PROGRAMA

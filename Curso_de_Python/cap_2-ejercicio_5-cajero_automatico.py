@@ -13,14 +13,14 @@ Hacer un programa que simule un cajero automatico con un saldo inicial de $1000 
 
 saldo = 1000
 
-print("/t.:MENU:.") #El "/t" da una tabulacion.
+print("/t.:MENU:.") #El "/t" da una tabulacion
 print("1. Ingresar dinero en la cuenta")
 print("2. Retirar dinero de la cuenta")
 print("3. Mostrar dinero disponible")
 print("4. Salir")
 opcion = int(input("Eliga una opcion del meno: "))
 
-print() #Esto dara un salto de linea entre el menu y lo demas.
+print() #Esto dara un salto de linea entre el menu y lo demas
 
 if opcion==1:
     extra = float(input("Cuanto dinero quiere ingresar -> "))

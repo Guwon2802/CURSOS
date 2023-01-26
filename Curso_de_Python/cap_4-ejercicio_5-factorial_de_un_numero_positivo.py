@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 5:
-Hacer un programa para calcular el factorial de un numero positivo.
+Hacer un programa para calcular el factorial de un numero positivo
 '''
 
 #PROGRAMA

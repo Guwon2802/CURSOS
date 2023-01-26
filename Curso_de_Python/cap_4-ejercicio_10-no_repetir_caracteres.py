@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 10:
-Hacer un programa que pida una cadena por teclado, luego meta los caracteres en una lista sin repetir caracteres.
+Hacer un programa que pida una cadena por teclado, luego meta los caracteres en una lista sin repetir caracteres
 '''
 
 #PROGRAMA

@@ -2,7 +2,7 @@
 
 '''
 EJERCICIO 1:
-Hacer un programa que pida 2 numeros y se de cuenta cual de ellos es par, o si ambos lo son.
+Hacer un programa que pida 2 numeros y se de cuenta cual de ellos es par, o si ambos lo son
 '''
 
 #PROGRAMA
