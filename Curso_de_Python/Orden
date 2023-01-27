@@ -1,6 +1,8 @@
 hola_mundo.py
-asignacion_de_valores.py
 comentarios.py
+asignacion_de_valores.py
+cadena_de_caracteres.py
+variables.py
 operadores_aritmeticos.py
 operadores_relacionales.py
 operadores_logicos.py
@@ -47,7 +49,6 @@ cap_4-ejercicio_8-menu_interactivo-cajero_automatico.py
 cap_4-ejercicio_9-mostrar_una_frase_sin_espacios_y_contar.py
 cap_4-ejercicio_10-no_repetir_caracteres.py
 cap_4-ejercicio_11-agenda_telefonica.py
-cadena_de_caracteres.py
 metodos_para_cadenas_parte_1.py
 metodos_para_cadenas_parte_2.py
 cap_5-ejercicio_1-cadena_mas_larga.py
@@ -65,6 +66,8 @@ cap_6-ejercicio_3-menu_para_un_cliente.py
 funciones_recursivas.py
 cap_6-ejercicio_4-factorial_de_un_numero_con_funcion_recursiva.py
 cap_6-ejercicio_5-sumar_digitos_con_funcion_recursiva.py
+funciones_lambda.py
+cap_7-ejercicio_1-
 errores.py
 excepciones.py
 ejemplos_con_multiples_excepciones.py
